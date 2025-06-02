@@ -365,3 +365,18 @@
 [02Jun2025 22:01:15.151] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@29d5f6c9
 [02Jun2025 22:01:15.165] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Dioginix[/127.19.72.217:49551] logged in with entity id 76 at (350.41584907884277, 106.0, 190.38751917178394)
 [02Jun2025 22:01:15.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dioginix joined the game
+[02Jun2025 22:13:34.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dioginix has made the advancement [Not Today, Thank You]
+[02Jun2025 22:13:50.336] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dioginix lost connection: Disconnected
+[02Jun2025 22:13:50.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dioginix left the game
+[02Jun2025 22:13:58.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[02Jun2025 22:13:58.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[02Jun2025 22:13:58.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[02Jun2025 22:13:59.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[02Jun2025 22:13:59.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[02Jun2025 22:13:59.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/man:halucination
+[02Jun2025 22:13:59.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[02Jun2025 22:13:59.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[02Jun2025 22:13:59.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[02Jun2025 22:13:59.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (halucination): All chunks are saved
+[02Jun2025 22:13:59.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[02Jun2025 22:13:59.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
