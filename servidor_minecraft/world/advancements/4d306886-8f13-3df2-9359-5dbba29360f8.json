@@ -161,6 +161,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diorite_slab_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-06-03 20:32:50 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_red_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2025-06-02 21:26:05 +0000"
@@ -323,6 +329,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_flint": "2025-06-03 20:32:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dispenser": {
     "criteria": {
       "has_bow": "2025-06-03 20:02:43 +0000"
@@ -371,6 +383,7 @@
       "cooked_mutton": "2025-06-03 02:23:23 +0000",
       "cooked_beef": "2025-06-02 21:17:47 +0000",
       "apple": "2025-06-02 21:39:26 +0000",
+      "rotten_flesh": "2025-06-03 20:24:22 +0000",
       "cooked_chicken": "2025-06-03 20:18:58 +0000"
     },
     "done": false
@@ -414,6 +427,12 @@
   "securitycraft:recipes/securitycraft/reinforced_white_stained_glass_pane_from_glass": {
     "criteria": {
       "has_glass": "2025-06-02 21:26:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_slab": {
+    "criteria": {
+      "has_diorite": "2025-06-03 20:32:50 +0000"
     },
     "done": true
   },
@@ -492,6 +511,12 @@
   "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
     "criteria": {
       "has_sand": "2025-06-02 21:24:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_slab_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-06-03 20:32:50 +0000"
     },
     "done": true
   },
@@ -600,6 +625,12 @@
   "minecraft:recipes/decorations/iron_bars": {
     "criteria": {
       "has_iron_ingot": "2025-06-02 21:57:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/diorite_wall_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-06-03 20:32:50 +0000"
     },
     "done": true
   },
@@ -906,6 +937,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2025-06-03 20:32:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_carpet": {
     "criteria": {
       "has_white_wool": "2025-06-02 21:09:11 +0000"
@@ -1170,6 +1207,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_diorite_stairs_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-06-03 20:32:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/loom": {
     "criteria": {
       "has_string": "2025-06-02 21:33:56 +0000"
@@ -1191,6 +1234,12 @@
   "securitycraft:recipes/securitycraft/bouncing_betty": {
     "criteria": {
       "has_iron": "2025-06-02 21:57:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_stairs_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-06-03 20:32:50 +0000"
     },
     "done": true
   },
@@ -1368,6 +1417,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diorite_stairs": {
+    "criteria": {
+      "has_diorite": "2025-06-03 20:32:50 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_andesite": {
     "criteria": {
       "has_cobblestone": "2025-06-02 21:08:26 +0000"
@@ -1389,6 +1444,12 @@
   "minecraft:recipes/tools/iron_axe": {
     "criteria": {
       "has_iron_ingot": "2025-06-02 21:57:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite": {
+    "criteria": {
+      "has_stone": "2025-06-03 20:32:50 +0000"
     },
     "done": true
   },
@@ -1437,6 +1498,12 @@
   "minecraft:recipes/building_blocks/black_concrete_powder": {
     "criteria": {
       "has_sand": "2025-06-02 21:24:15 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/laser_block": {
+    "criteria": {
+      "has_stone": "2025-06-03 20:32:50 +0000"
     },
     "done": true
   },
@@ -1509,6 +1576,12 @@
   "minecraft:recipes/redstone/oak_trapdoor": {
     "criteria": {
       "has_planks": "2025-06-02 21:07:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-06-03 20:32:50 +0000"
     },
     "done": true
   },
@@ -1623,6 +1696,12 @@
   "securitycraft:recipes/securitycraft/reinforced_magenta_stained_glass": {
     "criteria": {
       "has_glass": "2025-06-02 21:26:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/diorite_wall": {
+    "criteria": {
+      "has_diorite": "2025-06-03 20:32:50 +0000"
     },
     "done": true
   },
@@ -1904,6 +1983,12 @@
   "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
     "criteria": {
       "has_beef": "2025-06-02 21:10:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite": {
+    "criteria": {
+      "has_diorite": "2025-06-03 20:32:50 +0000"
     },
     "done": true
   },
