@@ -1,266 +1,284 @@
-[03Jun2025 02:11:41.808] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 43.4.2, --fml.mcVersion, 1.19.2, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20220805.130853, nogui]
-[03Jun2025 02:11:41.813] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.8+10.0.8+main.0ef7e830 starting: java version 17.0.15 by Ubuntu; OS Linux arch amd64 version 6.8.0-1027-azure
-[03Jun2025 02:11:42.323] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/Server-maicra/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2363!/ Service=ModLauncher Env=SERVER
-[03Jun2025 02:11:42.679] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Server-maicra/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.19.2-43.4.2/fmlcore-1.19.2-43.4.2.jar is missing mods.toml file
-[03Jun2025 02:11:42.682] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Server-maicra/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.19.2-43.4.2/javafmllanguage-1.19.2-43.4.2.jar is missing mods.toml file
-[03Jun2025 02:11:42.684] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Server-maicra/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.19.2-43.4.2/lowcodelanguage-1.19.2-43.4.2.jar is missing mods.toml file
-[03Jun2025 02:11:42.685] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Server-maicra/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.19.2-43.4.2/mclanguage-1.19.2-43.4.2.jar is missing mods.toml file
-[03Jun2025 02:11:42.825] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 2 dependencies adding them to mods collection
-[03Jun2025 02:11:44.540] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[03Jun2025 02:11:44.610] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [org.tlauncher.MixinConnector]
-[03Jun2025 02:11:44.613] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
-[03Jun2025 02:11:45.135] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/player/AbstractClientPlayer for invalid dist DEDICATED_SERVER
-[03Jun2025 02:11:45.135] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/player/AbstractClientPlayer (java.lang.RuntimeException: Attempted to load class net/minecraft/client/player/AbstractClientPlayer for invalid dist DEDICATED_SERVER)
-[03Jun2025 02:11:45.136] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.player.AbstractClientPlayer was not found tlskincape-mixins.json:MixinAbstractPlayer
-[03Jun2025 02:11:45.137] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/gui/screens/TitleScreen for invalid dist DEDICATED_SERVER
-[03Jun2025 02:11:45.138] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/gui/screens/TitleScreen (java.lang.RuntimeException: Attempted to load class net/minecraft/client/gui/screens/TitleScreen for invalid dist DEDICATED_SERVER)
-[03Jun2025 02:11:45.138] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.gui.screens.TitleScreen was not found tlskincape-mixins.json:MixinMainMenu
-[03Jun2025 02:11:45.163] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/model/PlayerModel (java.lang.ClassNotFoundException: net.minecraft.client.model.PlayerModel)
-[03Jun2025 02:11:45.163] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.model.PlayerModel was not found tlskincape-mixins.json:MixinPlayerModel
-[03Jun2025 02:11:45.697] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.5).
-[03Jun2025 02:11:49.123] [main/INFO] [net.minecraft.util.datafix.DataFixers/]: Building unoptimized datafixer
-[03Jun2025 02:11:50.756] [modloading-worker-0/WARN] [de.keksuccino.justzoom.JustZoom/]: [JUST ZOOM] Disabling 'Just Zoom' since it's a client-side mod and current environment is server!
-[03Jun2025 02:11:50.771] [modloading-worker-0/INFO] [de.keksuccino.konkrete.Konkrete/]: [KONKRETE] Successfully initialized!
-[03Jun2025 02:11:50.771] [modloading-worker-0/INFO] [de.keksuccino.konkrete.Konkrete/]: [KONKRETE] Server-side libs ready to use!
-[03Jun2025 02:11:50.794] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 43.4.2, for MC 1.19.2 with MCP 20220805.130853
-[03Jun2025 02:11:50.794] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v43.4.2 Initialized
-[03Jun2025 02:11:51.913] [modloading-worker-0/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 1/2 (Server)
-[03Jun2025 02:11:51.915] [main/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 2/2 (Server)
-[03Jun2025 02:11:51.961] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.vanilla.VanillaPlugin
-[03Jun2025 02:11:51.985] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.universal.UniversalPlugin
-[03Jun2025 02:11:51.993] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.core.CorePlugin
-[03Jun2025 02:11:51.996] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at de.maxhenkel.gravestone.integration.waila.PluginGraveStone
-[03Jun2025 02:11:51.999] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.geforcemods.securitycraft.compat.waila.JadeDataProvider
-[03Jun2025 02:11:52.095] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[03Jun2025 02:11:52.500] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 43.4.2 Target: 43.5.0
-[03Jun2025 02:11:52.500] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [gravestone] Starting version check at https://update.maxhenkel.de/forge/gravestone
-[03Jun2025 02:11:53.012] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [gravestone] Found status: AHEAD Current: 1.19.2-1.0.24 Target: null
-[03Jun2025 02:11:53.014] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Starting version check at https://www.github.com/Geforce132/SecurityCraft/raw/master/Updates/Forge.json
-[03Jun2025 02:11:53.163] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Found status: UP_TO_DATE Current: 1.9.6.1 Target: null
-[03Jun2025 02:11:53.778] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[03Jun2025 02:11:53.936] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: craftable_elytra_remastered:elytra_side Expected: 1176 Got: 1750
-[03Jun2025 02:11:53.937] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: the_rake:the_rake_spawn_egg Expected: 1179 Got: 1751
-[03Jun2025 02:11:53.937] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: corpse_stalker:corpse_stalker_spawn_egg Expected: 1190 Got: 1752
-[03Jun2025 02:11:53.938] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: the_rake:cavenoise_1 Expected: 1363 Got: 1392
-[03Jun2025 02:11:53.938] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: the_rake:cavenoise_2 Expected: 1364 Got: 1393
-[03Jun2025 02:11:53.938] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: the_rake:cavenoise_3 Expected: 1365 Got: 1394
-[03Jun2025 02:11:53.939] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: the_rake:cavenoise_4 Expected: 1366 Got: 1395
-[03Jun2025 02:11:53.939] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: the_rake:chase_step_1 Expected: 1367 Got: 1396
-[03Jun2025 02:11:53.939] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: the_rake:chase_step_2 Expected: 1368 Got: 1397
-[03Jun2025 02:11:53.939] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: the_rake:chase_step_3 Expected: 1369 Got: 1398
-[03Jun2025 02:11:53.940] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: the_rake:chase_step_4 Expected: 1370 Got: 1399
-[03Jun2025 02:11:53.940] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: the_rake:chase_1 Expected: 1371 Got: 1400
-[03Jun2025 02:11:53.940] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: the_rake:chase_2 Expected: 1372 Got: 1401
-[03Jun2025 02:11:53.940] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: the_rake:chase_3 Expected: 1373 Got: 1402
-[03Jun2025 02:11:53.941] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: the_rake:chase_4 Expected: 1374 Got: 1403
-[03Jun2025 02:11:53.941] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: the_rake:flee_1 Expected: 1375 Got: 1404
-[03Jun2025 02:11:53.941] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: the_rake:flee_2 Expected: 1376 Got: 1405
-[03Jun2025 02:11:53.941] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: the_rake:spotted Expected: 1377 Got: 1406
-[03Jun2025 02:11:53.942] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: the_rake:disappear Expected: 1378 Got: 1407
-[03Jun2025 02:11:53.942] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: the_rake:dweller_hurt_1 Expected: 1379 Got: 1408
-[03Jun2025 02:11:53.942] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: the_rake:dweller_hurt_2 Expected: 1380 Got: 1409
-[03Jun2025 02:11:53.942] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: the_rake:dweller_hurt_3 Expected: 1381 Got: 1410
-[03Jun2025 02:11:53.942] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: the_rake:dweller_hurt_4 Expected: 1382 Got: 1411
-[03Jun2025 02:11:53.943] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: the_rake:dweller_death Expected: 1383 Got: 1412
-[03Jun2025 02:11:53.943] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: corpse_stalker:moan_1 Expected: 1403 Got: 1413
-[03Jun2025 02:11:53.943] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: corpse_stalker:moan_2 Expected: 1404 Got: 1414
-[03Jun2025 02:11:53.943] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: corpse_stalker:moan_3 Expected: 1405 Got: 1415
-[03Jun2025 02:11:53.944] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: corpse_stalker:moan_4 Expected: 1406 Got: 1416
-[03Jun2025 02:11:53.944] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: corpse_stalker:chase_step_1 Expected: 1407 Got: 1417
-[03Jun2025 02:11:53.944] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: corpse_stalker:chase_step_2 Expected: 1408 Got: 1418
-[03Jun2025 02:11:53.944] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: corpse_stalker:chase_step_3 Expected: 1409 Got: 1419
-[03Jun2025 02:11:53.944] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: corpse_stalker:chase_step_4 Expected: 1410 Got: 1420
-[03Jun2025 02:11:53.945] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: corpse_stalker:chase_1 Expected: 1411 Got: 1421
-[03Jun2025 02:11:53.945] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: corpse_stalker:chase_2 Expected: 1412 Got: 1422
-[03Jun2025 02:11:53.945] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: corpse_stalker:chase_3 Expected: 1413 Got: 1423
-[03Jun2025 02:11:53.945] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: corpse_stalker:chase_4 Expected: 1414 Got: 1424
-[03Jun2025 02:11:53.945] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: corpse_stalker:flee_1 Expected: 1415 Got: 1425
-[03Jun2025 02:11:53.945] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: corpse_stalker:flee_2 Expected: 1416 Got: 1426
-[03Jun2025 02:11:53.946] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: corpse_stalker:spotted Expected: 1417 Got: 1427
-[03Jun2025 02:11:53.946] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: corpse_stalker:disappear Expected: 1418 Got: 1428
-[03Jun2025 02:11:53.946] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: corpse_stalker:stalker_hurt_1 Expected: 1419 Got: 1429
-[03Jun2025 02:11:53.946] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: corpse_stalker:stalker_hurt_2 Expected: 1420 Got: 1430
-[03Jun2025 02:11:53.946] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: corpse_stalker:stalker_hurt_3 Expected: 1421 Got: 1431
-[03Jun2025 02:11:53.947] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: corpse_stalker:stalker_hurt_4 Expected: 1422 Got: 1432
-[03Jun2025 02:11:53.947] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: corpse_stalker:stalker_death Expected: 1423 Got: 1433
-[03Jun2025 02:11:53.947] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:entity_type: Object did not get ID it asked for. Name: the_rake:the_rake Expected: 120 Got: 130
-[03Jun2025 02:11:53.947] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:entity_type: Object did not get ID it asked for. Name: corpse_stalker:corpse_stalker Expected: 126 Got: 131
-[03Jun2025 02:11:54.682] [main/WARN] [net.minecraft.server.packs.VanillaPackResources/]: Assets URL 'union:/workspaces/Server-maicra/servidor_minecraft/libraries/net/minecraft/server/1.19.2-20220805.130853/server-1.19.2-20220805.130853-srg.jar%23143!/assets/.mcassetsroot' uses unexpected schema
-[03Jun2025 02:11:54.682] [main/WARN] [net.minecraft.server.packs.VanillaPackResources/]: Assets URL 'union:/workspaces/Server-maicra/servidor_minecraft/libraries/net/minecraft/server/1.19.2-20220805.130853/server-1.19.2-20220805.130853-srg.jar%23143!/data/.mcassetsroot' uses unexpected schema
-[03Jun2025 02:11:56.702] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 8 recipes
-[03Jun2025 02:11:57.195] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement man:thetear: Non [a-z0-9/._-] character in path of location: man:tearoftheman
+[03Jun2025 19:34:02.988] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 43.4.2, --fml.mcVersion, 1.19.2, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20220805.130853, nogui]
+[03Jun2025 19:34:02.993] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.8+10.0.8+main.0ef7e830 starting: java version 17.0.15 by Ubuntu; OS Linux arch amd64 version 6.8.0-1027-azure
+[03Jun2025 19:34:03.511] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/Server-maicra/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2363!/ Service=ModLauncher Env=SERVER
+[03Jun2025 19:34:03.903] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Server-maicra/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.19.2-43.4.2/fmlcore-1.19.2-43.4.2.jar is missing mods.toml file
+[03Jun2025 19:34:03.906] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Server-maicra/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.19.2-43.4.2/javafmllanguage-1.19.2-43.4.2.jar is missing mods.toml file
+[03Jun2025 19:34:03.907] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Server-maicra/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.19.2-43.4.2/lowcodelanguage-1.19.2-43.4.2.jar is missing mods.toml file
+[03Jun2025 19:34:03.909] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Server-maicra/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.19.2-43.4.2/mclanguage-1.19.2-43.4.2.jar is missing mods.toml file
+[03Jun2025 19:34:04.045] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 2 dependencies adding them to mods collection
+[03Jun2025 19:34:05.742] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[03Jun2025 19:34:05.827] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [org.tlauncher.MixinConnector]
+[03Jun2025 19:34:05.831] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[03Jun2025 19:34:06.323] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/player/AbstractClientPlayer for invalid dist DEDICATED_SERVER
+[03Jun2025 19:34:06.324] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/player/AbstractClientPlayer (java.lang.RuntimeException: Attempted to load class net/minecraft/client/player/AbstractClientPlayer for invalid dist DEDICATED_SERVER)
+[03Jun2025 19:34:06.324] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.player.AbstractClientPlayer was not found tlskincape-mixins.json:MixinAbstractPlayer
+[03Jun2025 19:34:06.326] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/gui/screens/TitleScreen for invalid dist DEDICATED_SERVER
+[03Jun2025 19:34:06.326] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/gui/screens/TitleScreen (java.lang.RuntimeException: Attempted to load class net/minecraft/client/gui/screens/TitleScreen for invalid dist DEDICATED_SERVER)
+[03Jun2025 19:34:06.326] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.gui.screens.TitleScreen was not found tlskincape-mixins.json:MixinMainMenu
+[03Jun2025 19:34:06.355] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/model/PlayerModel (java.lang.ClassNotFoundException: net.minecraft.client.model.PlayerModel)
+[03Jun2025 19:34:06.355] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.model.PlayerModel was not found tlskincape-mixins.json:MixinPlayerModel
+[03Jun2025 19:34:06.825] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.5).
+[03Jun2025 19:34:10.612] [main/INFO] [net.minecraft.util.datafix.DataFixers/]: Building unoptimized datafixer
+[03Jun2025 19:34:12.454] [modloading-worker-0/WARN] [de.keksuccino.justzoom.JustZoom/]: [JUST ZOOM] Disabling 'Just Zoom' since it's a client-side mod and current environment is server!
+[03Jun2025 19:34:12.545] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 43.4.2, for MC 1.19.2 with MCP 20220805.130853
+[03Jun2025 19:34:12.545] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v43.4.2 Initialized
+[03Jun2025 19:34:12.563] [modloading-worker-0/INFO] [de.keksuccino.konkrete.Konkrete/]: [KONKRETE] Successfully initialized!
+[03Jun2025 19:34:12.568] [modloading-worker-0/INFO] [de.keksuccino.konkrete.Konkrete/]: [KONKRETE] Server-side libs ready to use!
+[03Jun2025 19:34:13.877] [modloading-worker-0/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 1/2 (Server)
+[03Jun2025 19:34:13.879] [main/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 2/2 (Server)
+[03Jun2025 19:34:13.926] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.vanilla.VanillaPlugin
+[03Jun2025 19:34:13.961] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.universal.UniversalPlugin
+[03Jun2025 19:34:13.972] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.core.CorePlugin
+[03Jun2025 19:34:13.975] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at de.maxhenkel.gravestone.integration.waila.PluginGraveStone
+[03Jun2025 19:34:13.977] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.geforcemods.securitycraft.compat.waila.JadeDataProvider
+[03Jun2025 19:34:14.047] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[03Jun2025 19:34:14.416] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 43.4.2 Target: 43.5.0
+[03Jun2025 19:34:14.417] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [gravestone] Starting version check at https://update.maxhenkel.de/forge/gravestone
+[03Jun2025 19:34:14.944] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [gravestone] Found status: AHEAD Current: 1.19.2-1.0.24 Target: null
+[03Jun2025 19:34:14.945] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Starting version check at https://www.github.com/Geforce132/SecurityCraft/raw/master/Updates/Forge.json
+[03Jun2025 19:34:15.094] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Found status: UP_TO_DATE Current: 1.9.6.1 Target: null
+[03Jun2025 19:34:15.675] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[03Jun2025 19:34:15.827] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: butchersdelight:hook Expected: 935 Got: 1486
+[03Jun2025 19:34:15.828] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: butchersdelight:hookedcow Expected: 936 Got: 1487
+[03Jun2025 19:34:15.828] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: butchersdelight:hookedcowskinned Expected: 937 Got: 1488
+[03Jun2025 19:34:15.828] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: butchersdelight:hookedcowprocess_1 Expected: 938 Got: 1489
+[03Jun2025 19:34:15.829] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: butchersdelight:hookedcowprocess_2 Expected: 939 Got: 1490
+[03Jun2025 19:34:15.829] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: butchersdelight:hookedcowprocess_3 Expected: 940 Got: 1491
+[03Jun2025 19:34:15.829] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: butchersdelight:hookedpigp_1 Expected: 941 Got: 1492
+[03Jun2025 19:34:15.830] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: butchersdelight:hookedpigp_2 Expected: 942 Got: 1493
+[03Jun2025 19:34:15.830] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: butchersdelight:hookedpigp_3 Expected: 943 Got: 1494
+[03Jun2025 19:34:15.830] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: butchersdelight:hookedpig Expected: 944 Got: 1495
+[03Jun2025 19:34:15.830] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: butchersdelight:rack Expected: 945 Got: 1496
+[03Jun2025 19:34:15.831] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: butchersdelight:rackcow Expected: 946 Got: 1497
+[03Jun2025 19:34:15.831] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: butchersdelight:racksheep Expected: 947 Got: 1498
+[03Jun2025 19:34:15.831] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: butchersdelight:hookedsheep Expected: 948 Got: 1499
+[03Jun2025 19:34:15.831] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: butchersdelight:hookedsheepskinned Expected: 949 Got: 1500
+[03Jun2025 19:34:15.832] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: butchersdelight:hookedsheepp_1 Expected: 950 Got: 1501
+[03Jun2025 19:34:15.832] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: butchersdelight:hookedsheepp_2 Expected: 951 Got: 1502
+[03Jun2025 19:34:15.832] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: butchersdelight:hookedsheepp_3 Expected: 952 Got: 1503
+[03Jun2025 19:34:15.832] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: butchersdelight:deadchickenblock Expected: 953 Got: 1504
+[03Jun2025 19:34:15.832] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: butchersdelight:deadchickenblockskinned Expected: 954 Got: 1505
+[03Jun2025 19:34:15.833] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: butchersdelight:skullcow Expected: 955 Got: 1506
+[03Jun2025 19:34:15.833] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: butchersdelight:roaster Expected: 956 Got: 1507
+[03Jun2025 19:34:15.833] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: butchersdelight:roaster_pig Expected: 957 Got: 1508
+[03Jun2025 19:34:15.833] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: butchersdelight:roaster_pig_roasted Expected: 958 Got: 1509
+[03Jun2025 19:34:15.833] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: butchersdelight:roaster_cow Expected: 959 Got: 1510
+[03Jun2025 19:34:15.834] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: butchersdelight:roaster_cow_roasted Expected: 960 Got: 1511
+[03Jun2025 19:34:15.834] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: butchersdelight:roaster_sheep Expected: 961 Got: 1512
+[03Jun2025 19:34:15.834] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: butchersdelight:roaster_sheep_roasted Expected: 962 Got: 1513
+[03Jun2025 19:34:15.834] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: butchersdelight:hooked_goat Expected: 963 Got: 1514
+[03Jun2025 19:34:15.834] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: butchersdelight:deadcowblock Expected: 964 Got: 1515
+[03Jun2025 19:34:15.835] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: butchersdelight:deadcowblockskinned Expected: 965 Got: 1516
+[03Jun2025 19:34:15.835] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: butchersdelight:deadsheepblock Expected: 966 Got: 1517
+[03Jun2025 19:34:15.835] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: butchersdelight:deadsheepskinnedblock Expected: 967 Got: 1518
+[03Jun2025 19:34:15.835] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: butchersdelight:deadpigblock Expected: 968 Got: 1519
+[03Jun2025 19:34:15.835] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: butchersdelight:deadgoatblock Expected: 969 Got: 1520
+[03Jun2025 19:34:15.836] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: butchersdelight:deadhoglinblock Expected: 970 Got: 1521
+[03Jun2025 19:34:15.836] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: butchersdelight:hokedhoglin Expected: 971 Got: 1522
+[03Jun2025 19:34:15.836] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: butchersdelight:hookedgoatskinned Expected: 972 Got: 1523
+[03Jun2025 19:34:15.836] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: butchersdelight:hookedgoatp_1 Expected: 973 Got: 1524
+[03Jun2025 19:34:15.836] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: butchersdelight:hookedgoatp_2 Expected: 974 Got: 1525
+[03Jun2025 19:34:15.837] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: butchersdelight:hookedgoatp_3 Expected: 975 Got: 1526
+[03Jun2025 19:34:15.837] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: butchersdelight:hookedhoglin_1 Expected: 976 Got: 1527
+[03Jun2025 19:34:15.837] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: butchersdelight:hookedhoglinp_2 Expected: 977 Got: 1528
+[03Jun2025 19:34:15.837] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: butchersdelight:hookedhoglinp_3 Expected: 978 Got: 1529
+[03Jun2025 19:34:15.837] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: butchersdelight:deadgoatskinnedblock Expected: 979 Got: 1530
+[03Jun2025 19:34:15.837] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: butchersdelight:rackhoglin Expected: 980 Got: 1531
+[03Jun2025 19:34:15.838] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: butchersdelight:rackgoat Expected: 981 Got: 1532
+[03Jun2025 19:34:15.838] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: butchersdelight:deadrabbitblock Expected: 982 Got: 1533
+[03Jun2025 19:34:15.838] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: butchersdelight:deadrabiitskinnedblock Expected: 983 Got: 1534
+[03Jun2025 19:34:15.838] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: butchersdelight:deadrabbitblockw_1 Expected: 984 Got: 1535
+[03Jun2025 19:34:15.838] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: butchersdelight:deadrabbitblock_2 Expected: 985 Got: 1536
+[03Jun2025 19:34:15.839] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: butchersdelight:deadrabbitblock_3 Expected: 986 Got: 1537
+[03Jun2025 19:34:15.839] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: butchersdelight:deadrabbitblock_4 Expected: 987 Got: 1538
+[03Jun2025 19:34:15.839] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: butchersdelight:deadrabbitblock_5 Expected: 988 Got: 1539
+[03Jun2025 19:34:15.839] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: butchersdelight:roaster_goat Expected: 989 Got: 1540
+[03Jun2025 19:34:15.839] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: butchersdelight:roasted_goat Expected: 990 Got: 1541
+[03Jun2025 19:34:15.839] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: butchersdelight:deadllamablock Expected: 991 Got: 1542
+[03Jun2025 19:34:15.840] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: butchersdelight:hookedllama Expected: 992 Got: 1543
+[03Jun2025 19:34:15.840] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: butchersdelight:hookedllamaskinned Expected: 993 Got: 1544
+[03Jun2025 19:34:15.840] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: butchersdelight:hookedllamap_1 Expected: 994 Got: 1545
+[03Jun2025 19:34:15.840] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: butchersdelight:hookedllamap_2 Expected: 995 Got: 1546
+[03Jun2025 19:34:15.840] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: butchersdelight:hookedllamap_3 Expected: 996 Got: 1547
+[03Jun2025 19:34:15.840] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: butchersdelight:roasterllama Expected: 997 Got: 1548
+[03Jun2025 19:34:15.840] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: butchersdelight:roastedllama Expected: 998 Got: 1549
+[03Jun2025 19:34:15.841] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: butchersdelight:deadllamaskinnedblock Expected: 999 Got: 1550
+[03Jun2025 19:34:15.841] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: butchersdelight:deadstriderblock Expected: 1000 Got: 1551
+[03Jun2025 19:34:15.841] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: butchersdelight:deadstriderblockskinned Expected: 1001 Got: 1552
+[03Jun2025 19:34:15.841] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: butchersdelight:hookedcowskinned_2 Expected: 1002 Got: 1553
+[03Jun2025 19:34:15.841] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: butchersdelight:hookedcowprocess_12 Expected: 1003 Got: 1554
+[03Jun2025 19:34:15.841] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: butchersdelight:hookedcowprocess_22 Expected: 1004 Got: 1555
+[03Jun2025 19:34:15.841] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: butchersdelight:hookedcowprocess_32 Expected: 1005 Got: 1556
+[03Jun2025 19:34:15.842] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: butchersdelight:deadcowblockskinned_2 Expected: 1006 Got: 1557
+[03Jun2025 19:34:15.842] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: butchersdelight:hookedpigp_12 Expected: 1007 Got: 1558
+[03Jun2025 19:34:15.842] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: butchersdelight:hookedpigp_22 Expected: 1008 Got: 1559
+[03Jun2025 19:34:15.842] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: butchersdelight:hookedpigp_32 Expected: 1009 Got: 1560
+[03Jun2025 19:34:15.842] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: butchersdelight:hookedhoglin_12 Expected: 1010 Got: 1561
+[03Jun2025 19:34:15.843] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: butchersdelight:hookedhoglinp_22 Expected: 1011 Got: 1562
+[03Jun2025 19:34:15.843] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: butchersdelight:hookedhoglinp_32 Expected: 1012 Got: 1563
+[03Jun2025 19:34:15.843] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: butchersdelight:hookedsheepskinned_2 Expected: 1013 Got: 1564
+[03Jun2025 19:34:15.843] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: butchersdelight:hookedsheepp_12 Expected: 1014 Got: 1565
+[03Jun2025 19:34:15.843] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: butchersdelight:hookedsheepp_22 Expected: 1015 Got: 1566
+[03Jun2025 19:34:15.844] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: butchersdelight:hookedsheepp_32 Expected: 1016 Got: 1567
+[03Jun2025 19:34:15.844] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: butchersdelight:deadsheepblock_2 Expected: 1017 Got: 1568
+[03Jun2025 19:34:15.844] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: butchersdelight:hookedgoatp_12 Expected: 1018 Got: 1569
+[03Jun2025 19:34:15.844] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: butchersdelight:hookedgoatp_22 Expected: 1019 Got: 1570
+[03Jun2025 19:34:15.844] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: butchersdelight:hookedgoatp_32 Expected: 1020 Got: 1571
+[03Jun2025 19:34:15.844] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: butchersdelight:hookedllamap_12 Expected: 1021 Got: 1572
+[03Jun2025 19:34:15.845] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: butchersdelight:hookedllamap_22 Expected: 1022 Got: 1573
+[03Jun2025 19:34:15.845] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: butchersdelight:hookedllamap_32 Expected: 1023 Got: 1574
+[03Jun2025 19:34:15.846] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: butchersdelight:cleaver Expected: 1176 Got: 1753
+[03Jun2025 19:34:15.846] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: butchersdelight:hook Expected: 1177 Got: 1754
+[03Jun2025 19:34:15.846] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: butchersdelight:hookedcow Expected: 1178 Got: 1755
+[03Jun2025 19:34:15.847] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: butchersdelight:hookedcowskinned Expected: 1179 Got: 1756
+[03Jun2025 19:34:15.847] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: butchersdelight:hookedcowprocess_1 Expected: 1180 Got: 1757
+[03Jun2025 19:34:15.847] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: butchersdelight:hookedcowprocess_2 Expected: 1181 Got: 1758
+[03Jun2025 19:34:15.847] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: butchersdelight:hookedcowprocess_3 Expected: 1182 Got: 1759
+[03Jun2025 19:34:15.847] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: butchersdelight:hookedpigp_1 Expected: 1183 Got: 1760
+[03Jun2025 19:34:15.847] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: butchersdelight:hookedpigp_2 Expected: 1184 Got: 1761
+[03Jun2025 19:34:15.847] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: butchersdelight:hookedpigp_3 Expected: 1185 Got: 1762
+[03Jun2025 19:34:15.848] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: butchersdelight:hookedpig Expected: 1186 Got: 1763
+[03Jun2025 19:34:15.848] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: butchersdelight:rack Expected: 1187 Got: 1764
+[03Jun2025 19:34:15.848] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: butchersdelight:rackcow Expected: 1188 Got: 1765
+[03Jun2025 19:34:15.848] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: butchersdelight:racksheep Expected: 1189 Got: 1766
+[03Jun2025 19:34:15.848] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: butchersdelight:hookedsheep Expected: 1190 Got: 1767
+[03Jun2025 19:34:15.849] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: butchersdelight:hookedsheepskinned Expected: 1191 Got: 1768
+[03Jun2025 19:34:15.849] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: butchersdelight:hookedsheepp_1 Expected: 1192 Got: 1769
+[03Jun2025 19:34:15.849] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: butchersdelight:hookedsheepp_2 Expected: 1193 Got: 1770
+[03Jun2025 19:34:15.850] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: butchersdelight:hookedsheepp_3 Expected: 1194 Got: 1771
+[03Jun2025 19:34:15.850] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: butchersdelight:dead_cow Expected: 1195 Got: 1772
+[03Jun2025 19:34:15.850] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: butchersdelight:deadpig Expected: 1196 Got: 1773
+[03Jun2025 19:34:15.850] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: butchersdelight:deadsheep Expected: 1197 Got: 1774
+[03Jun2025 19:34:15.851] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: butchersdelight:deadchickenblock Expected: 1198 Got: 1775
+[03Jun2025 19:34:15.851] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: butchersdelight:deadchickenblockskinned Expected: 1199 Got: 1776
+[03Jun2025 19:34:15.851] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: butchersdelight:cow_hide Expected: 1200 Got: 1777
+[03Jun2025 19:34:15.851] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: butchersdelight:sheephide Expected: 1201 Got: 1778
+[03Jun2025 19:34:15.851] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: butchersdelight:skullcow Expected: 1202 Got: 1779
+[03Jun2025 19:34:15.851] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: butchersdelight:roaster Expected: 1203 Got: 1780
+[03Jun2025 19:34:15.851] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: butchersdelight:roaster_pig Expected: 1204 Got: 1781
+[03Jun2025 19:34:15.852] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: butchersdelight:roaster_pig_roasted Expected: 1205 Got: 1782
+[03Jun2025 19:34:15.852] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: butchersdelight:roaster_cow Expected: 1206 Got: 1783
+[03Jun2025 19:34:15.852] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: butchersdelight:roaster_cow_roasted Expected: 1207 Got: 1784
+[03Jun2025 19:34:15.852] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: butchersdelight:roaster_sheep Expected: 1208 Got: 1785
+[03Jun2025 19:34:15.852] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: butchersdelight:roaster_sheep_roasted Expected: 1209 Got: 1786
+[03Jun2025 19:34:15.852] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: butchersdelight:deadgoat Expected: 1210 Got: 1787
+[03Jun2025 19:34:15.852] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: butchersdelight:hooked_goat Expected: 1211 Got: 1788
+[03Jun2025 19:34:15.852] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: butchersdelight:deadcowblock Expected: 1212 Got: 1789
+[03Jun2025 19:34:15.852] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: butchersdelight:deadcowblockskinned Expected: 1213 Got: 1790
+[03Jun2025 19:34:15.853] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: butchersdelight:deadsheepblock Expected: 1214 Got: 1791
+[03Jun2025 19:34:15.853] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: butchersdelight:deadsheepskinnedblock Expected: 1215 Got: 1792
+[03Jun2025 19:34:15.853] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: butchersdelight:deadpigblock Expected: 1216 Got: 1793
+[03Jun2025 19:34:15.854] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: butchersdelight:deadgoatblock Expected: 1217 Got: 1794
+[03Jun2025 19:34:15.854] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: butchersdelight:deadhoglinblock Expected: 1218 Got: 1795
+[03Jun2025 19:34:15.854] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: butchersdelight:deadhoglin Expected: 1219 Got: 1796
+[03Jun2025 19:34:15.854] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: butchersdelight:hokedhoglin Expected: 1220 Got: 1797
+[03Jun2025 19:34:15.854] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: butchersdelight:hookedgoatskinned Expected: 1221 Got: 1798
+[03Jun2025 19:34:15.854] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: butchersdelight:hookedgoatp_1 Expected: 1222 Got: 1799
+[03Jun2025 19:34:15.855] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: butchersdelight:hookedgoatp_2 Expected: 1223 Got: 1800
+[03Jun2025 19:34:15.855] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: butchersdelight:hookedgoatp_3 Expected: 1224 Got: 1801
+[03Jun2025 19:34:15.855] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: butchersdelight:hookedhoglin_1 Expected: 1225 Got: 1802
+[03Jun2025 19:34:15.855] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: butchersdelight:hookedhoglinp_2 Expected: 1226 Got: 1803
+[03Jun2025 19:34:15.855] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: butchersdelight:hookedhoglinp_3 Expected: 1227 Got: 1804
+[03Jun2025 19:34:15.855] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: butchersdelight:deadgoatskinnedblock Expected: 1228 Got: 1805
+[03Jun2025 19:34:15.856] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: butchersdelight:goat_fur Expected: 1229 Got: 1806
+[03Jun2025 19:34:15.856] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: butchersdelight:rackhoglin Expected: 1230 Got: 1807
+[03Jun2025 19:34:15.856] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: butchersdelight:rackgoat Expected: 1231 Got: 1808
+[03Jun2025 19:34:15.856] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: butchersdelight:hoglinskin Expected: 1232 Got: 1809
+[03Jun2025 19:34:15.856] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: butchersdelight:deadchiken Expected: 1233 Got: 1810
+[03Jun2025 19:34:15.856] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: butchersdelight:deadrabbitbrown Expected: 1234 Got: 1811
+[03Jun2025 19:34:15.856] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: butchersdelight:deadrabbitwhite Expected: 1235 Got: 1812
+[03Jun2025 19:34:15.856] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: butchersdelight:deadrabbitblack Expected: 1236 Got: 1813
+[03Jun2025 19:34:15.857] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: butchersdelight:deadrabbitblackandwhite Expected: 1237 Got: 1814
+[03Jun2025 19:34:15.857] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: butchersdelight:deadrabbitgold Expected: 1238 Got: 1815
+[03Jun2025 19:34:15.857] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: butchersdelight:deadrabbitsalt Expected: 1239 Got: 1816
+[03Jun2025 19:34:15.857] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: butchersdelight:deadrabbitblock Expected: 1240 Got: 1817
+[03Jun2025 19:34:15.857] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: butchersdelight:deadrabiitskinnedblock Expected: 1241 Got: 1818
+[03Jun2025 19:34:15.857] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: butchersdelight:deadrabbitblockw_1 Expected: 1242 Got: 1819
+[03Jun2025 19:34:15.857] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: butchersdelight:deadrabbitblock_2 Expected: 1243 Got: 1820
+[03Jun2025 19:34:15.857] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: butchersdelight:deadrabbitblock_3 Expected: 1244 Got: 1821
+[03Jun2025 19:34:15.858] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: butchersdelight:deadrabbitblock_4 Expected: 1245 Got: 1822
+[03Jun2025 19:34:15.858] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: butchersdelight:deadrabbitblock_5 Expected: 1246 Got: 1823
+[03Jun2025 19:34:15.858] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: butchersdelight:roaster_goat Expected: 1247 Got: 1824
+[03Jun2025 19:34:15.858] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: butchersdelight:roasted_goat Expected: 1248 Got: 1825
+[03Jun2025 19:34:15.858] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: butchersdelight:deadllama Expected: 1249 Got: 1826
+[03Jun2025 19:34:15.858] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: butchersdelight:deadllamablock Expected: 1250 Got: 1827
+[03Jun2025 19:34:15.858] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: butchersdelight:hookedllama Expected: 1251 Got: 1828
+[03Jun2025 19:34:15.859] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: butchersdelight:hookedllamaskinned Expected: 1252 Got: 1829
+[03Jun2025 19:34:15.859] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: butchersdelight:hookedllamap_1 Expected: 1253 Got: 1830
+[03Jun2025 19:34:15.859] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: butchersdelight:hookedllamap_2 Expected: 1254 Got: 1831
+[03Jun2025 19:34:15.859] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: butchersdelight:hookedllamap_3 Expected: 1255 Got: 1832
+[03Jun2025 19:34:15.859] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: butchersdelight:roasterllama Expected: 1256 Got: 1833
+[03Jun2025 19:34:15.859] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: butchersdelight:roastedllama Expected: 1257 Got: 1834
+[03Jun2025 19:34:15.859] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: butchersdelight:deadllamaskinnedblock Expected: 1258 Got: 1835
+[03Jun2025 19:34:15.860] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: butchersdelight:deadstrider Expected: 1259 Got: 1836
+[03Jun2025 19:34:15.860] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: butchersdelight:deadstriderblock Expected: 1260 Got: 1837
+[03Jun2025 19:34:15.860] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: butchersdelight:deadstriderblockskinned Expected: 1261 Got: 1838
+[03Jun2025 19:34:15.861] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: butchersdelight:hookedcowskinned_2 Expected: 1262 Got: 1839
+[03Jun2025 19:34:15.861] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: butchersdelight:hookedcowprocess_12 Expected: 1263 Got: 1840
+[03Jun2025 19:34:15.861] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: butchersdelight:hookedcowprocess_22 Expected: 1264 Got: 1841
+[03Jun2025 19:34:15.861] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: butchersdelight:hookedcowprocess_32 Expected: 1265 Got: 1842
+[03Jun2025 19:34:15.861] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: butchersdelight:deadcowblockskinned_2 Expected: 1266 Got: 1843
+[03Jun2025 19:34:15.862] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: butchersdelight:hookedpigp_12 Expected: 1267 Got: 1844
+[03Jun2025 19:34:15.862] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: butchersdelight:hookedpigp_22 Expected: 1268 Got: 1845
+[03Jun2025 19:34:15.862] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: butchersdelight:hookedpigp_32 Expected: 1269 Got: 1846
+[03Jun2025 19:34:15.862] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: butchersdelight:hookedhoglin_12 Expected: 1270 Got: 1847
+[03Jun2025 19:34:15.863] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: butchersdelight:hookedhoglinp_22 Expected: 1271 Got: 1848
+[03Jun2025 19:34:15.863] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: butchersdelight:hookedhoglinp_32 Expected: 1272 Got: 1849
+[03Jun2025 19:34:15.863] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: butchersdelight:hookedsheepskinned_2 Expected: 1273 Got: 1850
+[03Jun2025 19:34:15.863] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: butchersdelight:hookedsheepp_12 Expected: 1274 Got: 1851
+[03Jun2025 19:34:15.863] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: butchersdelight:hookedsheepp_22 Expected: 1275 Got: 1852
+[03Jun2025 19:34:15.863] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: butchersdelight:hookedsheepp_32 Expected: 1276 Got: 1853
+[03Jun2025 19:34:15.864] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: butchersdelight:deadsheepblock_2 Expected: 1277 Got: 1854
+[03Jun2025 19:34:15.864] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: butchersdelight:hookedgoatp_12 Expected: 1278 Got: 1855
+[03Jun2025 19:34:15.864] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: butchersdelight:hookedgoatp_22 Expected: 1279 Got: 1856
+[03Jun2025 19:34:15.864] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: butchersdelight:hookedgoatp_32 Expected: 1280 Got: 1857
+[03Jun2025 19:34:15.864] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: butchersdelight:hookedllamap_12 Expected: 1281 Got: 1858
+[03Jun2025 19:34:15.864] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: butchersdelight:hookedllamap_22 Expected: 1282 Got: 1859
+[03Jun2025 19:34:15.864] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: butchersdelight:hookedllamap_32 Expected: 1283 Got: 1860
+[03Jun2025 19:34:16.669] [main/WARN] [net.minecraft.server.packs.VanillaPackResources/]: Assets URL 'union:/workspaces/Server-maicra/servidor_minecraft/libraries/net/minecraft/server/1.19.2-20220805.130853/server-1.19.2-20220805.130853-srg.jar%23145!/assets/.mcassetsroot' uses unexpected schema
+[03Jun2025 19:34:16.670] [main/WARN] [net.minecraft.server.packs.VanillaPackResources/]: Assets URL 'union:/workspaces/Server-maicra/servidor_minecraft/libraries/net/minecraft/server/1.19.2-20220805.130853/server-1.19.2-20220805.130853-srg.jar%23145!/data/.mcassetsroot' uses unexpected schema
+[03Jun2025 19:34:18.618] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 8 recipes
+[03Jun2025 19:34:19.088] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement man:thetear: Non [a-z0-9/._-] character in path of location: man:tearoftheman
 
-[03Jun2025 02:11:57.263] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 1864 advancements
-[03Jun2025 02:11:57.931] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.19.2
-[03Jun2025 02:11:57.932] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[03Jun2025 02:11:57.932] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[03Jun2025 02:11:57.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[03Jun2025 02:11:58.058] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[03Jun2025 02:11:58.085] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[03Jun2025 02:11:58.180] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[03Jun2025 02:11:58.181] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[03Jun2025 02:11:58.181] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[03Jun2025 02:11:58.181] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[03Jun2025 02:11:58.197] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file ./world/serverconfig/jei-server.toml is not correct. Correcting
-[03Jun2025 02:11:58.198] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key cheat mode was corrected from null to its default, SimpleCommentedConfig:{}. 
-[03Jun2025 02:11:58.198] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key cheat mode.enableCheatModeForOp was corrected from null to its default, true. 
-[03Jun2025 02:11:58.199] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key cheat mode.enableCheatModeForCreative was corrected from null to its default, true. 
-[03Jun2025 02:11:58.199] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key cheat mode.enableCheatModeForGive was corrected from null to its default, false. 
-[03Jun2025 02:11:58.204] [Thread-0/INFO] [de.cadentem.cave_dweller.CaveDweller/]: Server configuration has been reloaded
-[03Jun2025 02:11:58.204] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file ./world/serverconfig/the_rake-server.toml is not correct. Correcting
-[03Jun2025 02:11:58.205] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Timers was corrected from null to its default, SimpleCommentedConfig:{}. 
-[03Jun2025 02:11:58.205] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Timers.Spawn was corrected from null to its default, SimpleCommentedConfig:{}. 
-[03Jun2025 02:11:58.205] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Timers.Spawn.can_spawn_min was corrected from null to its default, 300. 
-[03Jun2025 02:11:58.205] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Timers.Spawn.can_spawn_max was corrected from null to its default, 600. 
-[03Jun2025 02:11:58.206] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Timers.Spawn.can_spawn_cooldown_chance was corrected from null to its default, 0.4. 
-[03Jun2025 02:11:58.206] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Timers.Spawn.can_spawn_cooldown was corrected from null to its default, 1200. 
-[03Jun2025 02:11:58.206] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Timers.Noise was corrected from null to its default, SimpleCommentedConfig:{}. 
-[03Jun2025 02:11:58.207] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Timers.Noise.reset_noise_min was corrected from null to its default, 240. 
-[03Jun2025 02:11:58.207] [Thread-0/INFO] [de.cadentem.cave_dweller.CaveDweller/]: Server configuration has been reloaded
-[03Jun2025 02:11:58.208] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Timers.Noise.reset_noise_max was corrected from null to its default, 360. 
-[03Jun2025 02:11:58.209] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Timers.Leave was corrected from null to its default, SimpleCommentedConfig:{}. 
-[03Jun2025 02:11:58.209] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Timers.Leave.time_until_leave was corrected from null to its default, 300. 
-[03Jun2025 02:11:58.209] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Timers.Leave.time_until_leave_chase was corrected from null to its default, 30. 
-[03Jun2025 02:11:58.210] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Timers.surface_timer_multiplier was corrected from null to its default, 1.0. 
-[03Jun2025 02:11:58.210] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Spawn Conditions was corrected from null to its default, SimpleCommentedConfig:{}. 
-[03Jun2025 02:11:58.210] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Spawn Conditions.spawn_chance_per_tick was corrected from null to its default, 0.05. 
-[03Jun2025 02:11:58.211] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Spawn Conditions.spawn_height was corrected from null to its default, 500. 
-[03Jun2025 02:11:58.211] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Spawn Conditions.allow_surface_spawn was corrected from null to its default, true. 
-[03Jun2025 02:11:58.211] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Spawn Conditions.sky_light_level was corrected from null to its default, 15. 
-[03Jun2025 02:11:58.212] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Spawn Conditions.block_light_level was corrected from null to its default, 15. 
-[03Jun2025 02:11:58.212] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Spawn Conditions.maximum_amount was corrected from null to its default, 3. 
-[03Jun2025 02:11:58.212] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Spawn Conditions.spawn_distance was corrected from null to its default, 16. 
-[03Jun2025 02:11:58.213] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Spawn Conditions.check_path_to_spawn was corrected from null to its default, true. 
-[03Jun2025 02:11:58.213] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Spawn Conditions.Dimensions was corrected from null to its default, SimpleCommentedConfig:{}. 
-[03Jun2025 02:11:58.213] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Spawn Conditions.Dimensions.dimension_whitelist was corrected from null to its default, [minecraft:overworld]. 
-[03Jun2025 02:11:58.214] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Spawn Conditions.Biomes was corrected from null to its default, SimpleCommentedConfig:{}. 
-[03Jun2025 02:11:58.214] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Spawn Conditions.Biomes.override_biome_datapack_config was corrected from null to its default, true. 
-[03Jun2025 02:11:58.214] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Spawn Conditions.Biomes.surface_biomes_is_whitelist was corrected from null to its default, false. 
-[03Jun2025 02:11:58.215] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Spawn Conditions.Biomes.surface_biomes was corrected from null to its default, []. 
-[03Jun2025 02:11:58.215] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Behaviour was corrected from null to its default, SimpleCommentedConfig:{}. 
-[03Jun2025 02:11:58.216] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Behaviour.spotting_range was corrected from null to its default, 60. 
-[03Jun2025 02:11:58.216] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Behaviour.can_disable_shields was corrected from null to its default, false. 
-[03Jun2025 02:11:58.216] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Behaviour.can_climb was corrected from null to its default, true. 
-[03Jun2025 02:11:58.217] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Behaviour.can_break_door was corrected from null to its default, true. 
-[03Jun2025 02:11:58.217] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Behaviour.break_door_time was corrected from null to its default, 3. 
-[03Jun2025 02:11:58.217] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Behaviour.allow_riding was corrected from null to its default, false. 
-[03Jun2025 02:11:58.217] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Behaviour.target_invisible was corrected from null to its default, true. 
-[03Jun2025 02:11:58.218] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Attributes was corrected from null to its default, SimpleCommentedConfig:{}. 
-[03Jun2025 02:11:58.219] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Attributes.maximum_health was corrected from null to its default, 60.0. 
-[03Jun2025 02:11:58.219] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Attributes.attack_damage was corrected from null to its default, 6.0. 
-[03Jun2025 02:11:58.220] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Attributes.attack_speed was corrected from null to its default, 0.35. 
-[03Jun2025 02:11:58.220] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Attributes.movement_speed was corrected from null to its default, 0.5. 
-[03Jun2025 02:11:58.221] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Attributes.depth_strider_bonus was corrected from null to its default, 1.5. 
-[03Jun2025 02:11:58.222] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Misc was corrected from null to its default, SimpleCommentedConfig:{}. 
-[03Jun2025 02:11:58.222] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Misc.only_play_noise_to_target was corrected from null to its default, false. 
-[03Jun2025 02:11:58.224] [Thread-0/INFO] [de.cadentem.the_rake.TheRake/]: Server configuration has been reloaded
-[03Jun2025 02:11:58.225] [Thread-0/INFO] [de.cadentem.the_rake.TheRake/]: Server configuration has been reloaded
-[03Jun2025 02:11:58.228] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file ./world/serverconfig/corpse_stalker-server.toml is not correct. Correcting
-[03Jun2025 02:11:58.229] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Timers was corrected from null to its default, SimpleCommentedConfig:{}. 
-[03Jun2025 02:11:58.229] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Timers.Spawn was corrected from null to its default, SimpleCommentedConfig:{}. 
-[03Jun2025 02:11:58.230] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Timers.Spawn.can_spawn_min was corrected from null to its default, 290. 
-[03Jun2025 02:11:58.231] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Timers.Spawn.can_spawn_max was corrected from null to its default, 450. 
-[03Jun2025 02:11:58.231] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Timers.Spawn.can_spawn_cooldown_chance was corrected from null to its default, 0.4. 
-[03Jun2025 02:11:58.231] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Timers.Spawn.can_spawn_cooldown was corrected from null to its default, 1200. 
-[03Jun2025 02:11:58.232] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Timers.Noise was corrected from null to its default, SimpleCommentedConfig:{}. 
-[03Jun2025 02:11:58.232] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Timers.Noise.reset_noise_min was corrected from null to its default, 240. 
-[03Jun2025 02:11:58.232] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Timers.Noise.reset_noise_max was corrected from null to its default, 360. 
-[03Jun2025 02:11:58.232] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Timers.Leave was corrected from null to its default, SimpleCommentedConfig:{}. 
-[03Jun2025 02:11:58.233] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Timers.Leave.time_until_leave was corrected from null to its default, 300. 
-[03Jun2025 02:11:58.233] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Timers.Leave.time_until_leave_chase was corrected from null to its default, 30. 
-[03Jun2025 02:11:58.233] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Timers.surface_timer_multiplier was corrected from null to its default, 1.0. 
-[03Jun2025 02:11:58.234] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Spawn Conditions was corrected from null to its default, SimpleCommentedConfig:{}. 
-[03Jun2025 02:11:58.234] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Spawn Conditions.spawn_chance_per_tick was corrected from null to its default, 0.005. 
-[03Jun2025 02:11:58.234] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Spawn Conditions.spawn_height was corrected from null to its default, 500. 
-[03Jun2025 02:11:58.235] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Spawn Conditions.allow_surface_spawn was corrected from null to its default, true. 
-[03Jun2025 02:11:58.235] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Spawn Conditions.sky_light_level was corrected from null to its default, 8. 
-[03Jun2025 02:11:58.235] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Spawn Conditions.block_light_level was corrected from null to its default, 15. 
-[03Jun2025 02:11:58.235] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Spawn Conditions.maximum_amount was corrected from null to its default, 3. 
-[03Jun2025 02:11:58.235] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Spawn Conditions.spawn_distance was corrected from null to its default, 16. 
-[03Jun2025 02:11:58.236] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Spawn Conditions.check_path_to_spawn was corrected from null to its default, true. 
-[03Jun2025 02:11:58.236] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Spawn Conditions.Dimensions was corrected from null to its default, SimpleCommentedConfig:{}. 
-[03Jun2025 02:11:58.236] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Spawn Conditions.Dimensions.dimension_whitelist was corrected from null to its default, [minecraft:overworld]. 
-[03Jun2025 02:11:58.236] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Spawn Conditions.Biomes was corrected from null to its default, SimpleCommentedConfig:{}. 
-[03Jun2025 02:11:58.236] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Spawn Conditions.Biomes.override_biome_datapack_config was corrected from null to its default, false. 
-[03Jun2025 02:11:58.237] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Spawn Conditions.Biomes.surface_biomes_is_whitelist was corrected from null to its default, true. 
-[03Jun2025 02:11:58.237] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Spawn Conditions.Biomes.surface_biomes was corrected from null to its default, []. 
-[03Jun2025 02:11:58.238] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Behaviour was corrected from null to its default, SimpleCommentedConfig:{}. 
-[03Jun2025 02:11:58.238] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Behaviour.spotting_range was corrected from null to its default, 60. 
-[03Jun2025 02:11:58.238] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Behaviour.can_disable_shields was corrected from null to its default, true. 
-[03Jun2025 02:11:58.238] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Behaviour.can_climb was corrected from null to its default, true. 
-[03Jun2025 02:11:58.239] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Behaviour.can_break_door was corrected from null to its default, true. 
-[03Jun2025 02:11:58.239] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Behaviour.break_door_time was corrected from null to its default, 1. 
-[03Jun2025 02:11:58.239] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Behaviour.allow_riding was corrected from null to its default, false. 
-[03Jun2025 02:11:58.240] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Behaviour.target_invisible was corrected from null to its default, true. 
-[03Jun2025 02:11:58.240] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Attributes was corrected from null to its default, SimpleCommentedConfig:{}. 
-[03Jun2025 02:11:58.240] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Attributes.maximum_health was corrected from null to its default, 1000.0. 
-[03Jun2025 02:11:58.241] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Attributes.attack_damage was corrected from null to its default, 6.0. 
-[03Jun2025 02:11:58.241] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Attributes.attack_speed was corrected from null to its default, 0.35. 
-[03Jun2025 02:11:58.241] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Attributes.movement_speed was corrected from null to its default, 0.5. 
-[03Jun2025 02:11:58.242] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Attributes.depth_strider_bonus was corrected from null to its default, 2.5. 
-[03Jun2025 02:11:58.244] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Misc was corrected from null to its default, SimpleCommentedConfig:{}. 
-[03Jun2025 02:11:58.244] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Misc.only_play_noise_to_target was corrected from null to its default, false. 
-[03Jun2025 02:11:58.246] [Thread-0/INFO] [de.cadentem.corpse_stalker.CorpseStalker/]: Server configuration has been reloaded
-[03Jun2025 02:11:58.248] [Thread-0/INFO] [de.cadentem.corpse_stalker.CorpseStalker/]: Server configuration has been reloaded
-[03Jun2025 02:11:58.825] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[03Jun2025 02:11:59.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[03Jun2025 02:12:05.453] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[03Jun2025 02:12:05.455] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[03Jun2025 02:12:05.456] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[03Jun2025 02:12:05.458] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[03Jun2025 02:12:05.459] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[03Jun2025 02:12:05.462] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[03Jun2025 02:12:05.463] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[03Jun2025 02:12:05.464] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[03Jun2025 02:12:05.467] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[03Jun2025 02:12:05.468] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[03Jun2025 02:12:05.469] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[03Jun2025 02:12:05.473] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[03Jun2025 02:12:05.474] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[03Jun2025 02:12:05.710] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[03Jun2025 02:12:06.211] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 21%
-[03Jun2025 02:12:06.710] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 60%
-[03Jun2025 02:12:07.212] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 95%
-[03Jun2025 02:12:07.272] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 8063 ms
-[03Jun2025 02:12:07.273] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (9.080s)! For help, type "help"
-[03Jun2025 02:12:07.293] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[03Jun2025 02:12:19.172] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@2023124
-[03Jun2025 02:12:19.187] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Dioginix[/127.19.72.217:42309] logged in with entity id 78 at (349.54121323225297, 106.0, 191.32707494370464)
-[03Jun2025 02:12:19.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dioginix joined the game
-[03Jun2025 02:12:19.277] [Server thread/INFO] [Jade/]: Syncing config to Dioginix (4d306886-8f13-3df2-9359-5dbba29360f8)
-[03Jun2025 02:12:39.658] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dioginix lost connection: Disconnected
-[03Jun2025 02:12:39.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dioginix left the game
-[03Jun2025 02:12:49.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
-[03Jun2025 02:12:49.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cave dweller<--[HERE]
-[03Jun2025 02:19:57.450] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@52547fdf[id=<null>,name=Dioginix,properties={},legacy=false] (/127.19.72.217:58809) lost connection: Disconnected
-[03Jun2025 02:20:04.407] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@46b5e409
-[03Jun2025 02:20:04.413] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Dioginix[/127.19.72.217:59697] logged in with entity id 327 at (350.4949561664781, 106.0625, 191.11139598519634)
-[03Jun2025 02:20:04.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dioginix joined the game
-[03Jun2025 02:20:04.433] [Server thread/INFO] [Jade/]: Syncing config to Dioginix (4d306886-8f13-3df2-9359-5dbba29360f8)
-[03Jun2025 02:20:34.509] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dioginix lost connection: Timed out
-[03Jun2025 02:20:34.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dioginix left the game
-[03Jun2025 02:20:34.580] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
-[03Jun2025 02:20:58.605] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@4cdd0335
-[03Jun2025 02:20:58.611] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Dioginix[/127.19.72.217:48351] logged in with entity id 604 at (347.12703512503174, 106.0, 190.47402292907407)
-[03Jun2025 02:20:58.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dioginix joined the game
-[03Jun2025 02:20:58.622] [Server thread/INFO] [Jade/]: Syncing config to Dioginix (4d306886-8f13-3df2-9359-5dbba29360f8)
-[03Jun2025 02:24:03.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dioginix was shot by Pillager
-[03Jun2025 02:25:19.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made Dioginix a server operator
-[03Jun2025 02:25:25.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dioginix: Set own game mode to Creative Mode]
-[03Jun2025 02:26:01.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dioginix: Set own game mode to Survival Mode]
-[03Jun2025 02:26:20.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dioginix was slain by The Rake
-[03Jun2025 02:27:14.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dioginix has reached the goal [Feelingwatched]
-[03Jun2025 02:28:50.204] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dioginix lost connection: Disconnected
-[03Jun2025 02:28:50.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dioginix left the game
-[03Jun2025 02:29:43.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
-[03Jun2025 02:29:43.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
-[03Jun2025 02:29:43.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
-[03Jun2025 02:29:43.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[03Jun2025 02:29:44.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[03Jun2025 02:29:44.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/man:halucination
-[03Jun2025 02:29:44.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[03Jun2025 02:29:44.186] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[03Jun2025 02:29:44.186] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[03Jun2025 02:29:44.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (halucination): All chunks are saved
-[03Jun2025 02:29:44.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[03Jun2025 02:29:44.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[03Jun2025 19:34:19.147] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 1864 advancements
+[03Jun2025 19:34:19.867] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.19.2
+[03Jun2025 19:34:19.868] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[03Jun2025 19:34:19.868] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[03Jun2025 19:34:19.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[03Jun2025 19:34:19.970] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[03Jun2025 19:34:19.993] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[03Jun2025 19:34:20.073] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[03Jun2025 19:34:20.073] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[03Jun2025 19:34:20.073] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[03Jun2025 19:34:20.074] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[03Jun2025 19:34:20.095] [Thread-0/INFO] [de.cadentem.cavenoise_overhaul.CavenoiseOverhaul/]: Server configuration has been reloaded
+[03Jun2025 19:34:20.097] [Thread-0/INFO] [de.cadentem.cavenoise_overhaul.CavenoiseOverhaul/]: Server configuration has been reloaded
+[03Jun2025 19:34:20.102] [Thread-0/INFO] [de.cadentem.the_rake.TheRake/]: Server configuration has been reloaded
+[03Jun2025 19:34:20.629] [Thread-0/INFO] [de.cadentem.corpse_stalker.CorpseStalker/]: Server configuration has been reloaded
+[03Jun2025 19:34:20.631] [Thread-0/INFO] [de.cadentem.corpse_stalker.CorpseStalker/]: Server configuration has been reloaded
+[03Jun2025 19:34:20.655] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[03Jun2025 19:34:21.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[03Jun2025 19:34:25.480] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03Jun2025 19:34:25.481] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03Jun2025 19:34:25.496] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03Jun2025 19:34:25.533] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03Jun2025 19:34:25.556] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03Jun2025 19:34:25.587] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03Jun2025 19:34:25.634] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03Jun2025 19:34:25.646] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03Jun2025 19:34:25.661] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03Jun2025 19:34:25.675] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03Jun2025 19:34:26.050] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03Jun2025 19:34:26.549] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 4%
+[03Jun2025 19:34:27.049] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 51%
+[03Jun2025 19:34:27.549] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 88%
+[03Jun2025 19:34:27.658] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 6609 ms
+[03Jun2025 19:34:27.659] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (7.574s)! For help, type "help"
+[03Jun2025 19:34:27.678] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[03Jun2025 19:34:46.452] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@399e7cb5
+[03Jun2025 19:34:46.469] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Dioginix[/127.19.72.217:53835] logged in with entity id 79 at (344.69999998807907, 135.0, 181.0709780124571)
+[03Jun2025 19:34:46.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dioginix joined the game
+[03Jun2025 19:34:46.599] [Server thread/INFO] [Jade/]: Syncing config to Dioginix (4d306886-8f13-3df2-9359-5dbba29360f8)
+[03Jun2025 19:36:24.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dioginix fell from a high place
+[03Jun2025 19:40:54.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dioginix tried to swim in lava
+[03Jun2025 19:41:05.342] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dioginix moved too quickly! 10.10522597428303,0.0,0.06373169041606275
