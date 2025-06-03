@@ -1934,3 +1934,235 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [03Jun2025 20:09:27.655] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [03Jun2025 20:11:20.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dioginix has made the advancement [Suit Up]
 [03Jun2025 20:14:04.232] [Server thread/DEBUG] [de.cadentem.cavenoise_overhaul.CavenoiseOverhaul/]: Cavenoise Overhaul could not pass the spawn checks, target: [ServerPlayer['Dioginix'/79, l='ServerLevel[world]', x=350.50, y=106.06, z=189.50]]
+[03Jun2025 20:14:27.648] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Jun2025 20:14:27.653] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Jun2025 20:19:27.648] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Jun2025 20:19:27.652] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Jun2025 20:19:31.533] [Server thread/DEBUG] [de.cadentem.the_rake.TheRake/]: The Rake could not pass the spawn checks, target: [ServerPlayer['Dioginix'/79, l='ServerLevel[world]', x=350.50, y=106.06, z=189.50]]
+[03Jun2025 20:19:32.130] [Server thread/DEBUG] [de.cadentem.the_rake.TheRake/]: The Rake could not pass the spawn checks, target: [ServerPlayer['Dioginix'/9368, l='ServerLevel[world]', x=349.74, y=106.06, z=189.75]]
+[03Jun2025 20:19:35.532] [Server thread/DEBUG] [de.cadentem.the_rake.TheRake/]: The Rake could not pass the spawn checks, target: [ServerPlayer['Dioginix'/9368, l='ServerLevel[world]', x=349.74, y=106.06, z=189.75]]
+[03Jun2025 20:19:35.640] [Server thread/DEBUG] [de.cadentem.the_rake.TheRake/]: The Rake could not pass the spawn checks, target: [ServerPlayer['Dioginix'/9368, l='ServerLevel[world]', x=349.74, y=106.06, z=189.75]]
+[03Jun2025 20:19:36.543] [Server thread/DEBUG] [de.cadentem.the_rake.TheRake/]: The Rake could not pass the spawn checks, target: [ServerPlayer['Dioginix'/9368, l='ServerLevel[world]', x=349.74, y=106.06, z=189.75]]
+[03Jun2025 20:19:37.233] [Server thread/DEBUG] [de.cadentem.the_rake.TheRake/]: The Rake could not pass the spawn checks, target: [ServerPlayer['Dioginix'/9368, l='ServerLevel[world]', x=349.74, y=106.06, z=189.75]]
+[03Jun2025 20:19:38.638] [Server thread/DEBUG] [de.cadentem.the_rake.TheRake/]: The Rake could not pass the spawn checks, target: [ServerPlayer['Dioginix'/9368, l='ServerLevel[world]', x=349.74, y=106.06, z=189.75]]
+[03Jun2025 20:19:40.232] [Server thread/DEBUG] [de.cadentem.the_rake.TheRake/]: The Rake could not pass the spawn checks, target: [ServerPlayer['Dioginix'/9368, l='ServerLevel[world]', x=349.74, y=106.06, z=189.75]]
+[03Jun2025 20:19:40.437] [Server thread/DEBUG] [de.cadentem.the_rake.TheRake/]: The Rake could not pass the spawn checks, target: [ServerPlayer['Dioginix'/9368, l='ServerLevel[world]', x=349.74, y=106.06, z=189.75]]
+[03Jun2025 20:19:40.842] [Server thread/DEBUG] [de.cadentem.the_rake.TheRake/]: The Rake could not pass the spawn checks, target: [ServerPlayer['Dioginix'/9368, l='ServerLevel[world]', x=349.74, y=106.06, z=189.75]]
+[03Jun2025 20:19:40.990] [Server thread/DEBUG] [de.cadentem.the_rake.TheRake/]: The Rake could not pass the spawn checks, target: [ServerPlayer['Dioginix'/9368, l='ServerLevel[world]', x=349.74, y=106.06, z=189.75]]
+[03Jun2025 20:19:41.791] [Server thread/DEBUG] [de.cadentem.the_rake.TheRake/]: The Rake could not pass the spawn checks, target: [ServerPlayer['Dioginix'/9368, l='ServerLevel[world]', x=349.74, y=106.06, z=189.75]]
+[03Jun2025 20:19:42.538] [Server thread/DEBUG] [de.cadentem.the_rake.TheRake/]: The Rake could not pass the spawn checks, target: [ServerPlayer['Dioginix'/9368, l='ServerLevel[world]', x=349.74, y=106.06, z=189.75]]
+[03Jun2025 20:19:43.093] [Server thread/DEBUG] [de.cadentem.the_rake.TheRake/]: The Rake could not pass the spawn checks, target: [ServerPlayer['Dioginix'/9368, l='ServerLevel[world]', x=349.74, y=106.06, z=189.75]]
+[03Jun2025 20:19:44.687] [Server thread/DEBUG] [de.cadentem.the_rake.TheRake/]: The Rake could not pass the spawn checks, target: [ServerPlayer['Dioginix'/9368, l='ServerLevel[world]', x=349.74, y=106.06, z=189.75]]
+[03Jun2025 20:19:44.888] [Server thread/DEBUG] [de.cadentem.the_rake.TheRake/]: The Rake could not pass the spawn checks, target: [ServerPlayer['Dioginix'/9368, l='ServerLevel[world]', x=349.74, y=106.06, z=189.75]]
+[03Jun2025 20:19:45.053] [Server thread/DEBUG] [de.cadentem.the_rake.TheRake/]: The Rake could not pass the spawn checks, target: [ServerPlayer['Dioginix'/9368, l='ServerLevel[world]', x=349.74, y=106.06, z=189.75]]
+[03Jun2025 20:19:45.995] [Server thread/DEBUG] [de.cadentem.the_rake.TheRake/]: The Rake could not pass the spawn checks, target: [ServerPlayer['Dioginix'/9368, l='ServerLevel[world]', x=349.74, y=106.06, z=189.75]]
+[03Jun2025 20:19:46.633] [Server thread/DEBUG] [de.cadentem.the_rake.TheRake/]: The Rake could not pass the spawn checks, target: [ServerPlayer['Dioginix'/9368, l='ServerLevel[world]', x=349.74, y=106.06, z=189.75]]
+[03Jun2025 20:19:47.037] [Server thread/DEBUG] [de.cadentem.the_rake.TheRake/]: The Rake could not pass the spawn checks, target: [ServerPlayer['Dioginix'/9368, l='ServerLevel[world]', x=349.74, y=106.06, z=189.75]]
+[03Jun2025 20:19:48.786] [Server thread/DEBUG] [de.cadentem.the_rake.TheRake/]: The Rake could not pass the spawn checks, target: [ServerPlayer['Dioginix'/9368, l='ServerLevel[world]', x=349.74, y=106.06, z=189.75]]
+[03Jun2025 20:19:49.252] [Server thread/DEBUG] [de.cadentem.the_rake.TheRake/]: The Rake could not pass the spawn checks, target: [ServerPlayer['Dioginix'/9368, l='ServerLevel[world]', x=349.74, y=106.06, z=189.75]]
+[03Jun2025 20:19:50.592] [Server thread/DEBUG] [de.cadentem.the_rake.TheRake/]: The Rake could not pass the spawn checks, target: [ServerPlayer['Dioginix'/9368, l='ServerLevel[world]', x=349.74, y=106.06, z=189.75]]
+[03Jun2025 20:19:51.097] [Server thread/DEBUG] [de.cadentem.the_rake.TheRake/]: The Rake could not pass the spawn checks, target: [ServerPlayer['Dioginix'/9368, l='ServerLevel[world]', x=349.74, y=106.06, z=189.75]]
+[03Jun2025 20:19:52.539] [Server thread/DEBUG] [de.cadentem.the_rake.TheRake/]: The Rake could not pass the spawn checks, target: [ServerPlayer['Dioginix'/9368, l='ServerLevel[world]', x=349.74, y=106.06, z=189.75]]
+[03Jun2025 20:19:52.587] [Server thread/DEBUG] [de.cadentem.the_rake.TheRake/]: The Rake could not pass the spawn checks, target: [ServerPlayer['Dioginix'/9368, l='ServerLevel[world]', x=349.74, y=106.06, z=189.75]]
+[03Jun2025 20:19:53.339] [Server thread/DEBUG] [de.cadentem.the_rake.TheRake/]: The Rake could not pass the spawn checks, target: [ServerPlayer['Dioginix'/9368, l='ServerLevel[world]', x=349.74, y=106.06, z=189.75]]
+[03Jun2025 20:19:53.730] [Server thread/DEBUG] [de.cadentem.the_rake.TheRake/]: The Rake could not pass the spawn checks, target: [ServerPlayer['Dioginix'/9368, l='ServerLevel[world]', x=349.74, y=106.06, z=189.75]]
+[03Jun2025 20:19:55.140] [Server thread/DEBUG] [de.cadentem.the_rake.TheRake/]: The Rake could not pass the spawn checks, target: [ServerPlayer['Dioginix'/9368, l='ServerLevel[world]', x=349.74, y=106.06, z=189.75]]
+[03Jun2025 20:19:55.480] [Server thread/DEBUG] [de.cadentem.the_rake.TheRake/]: The Rake could not pass the spawn checks, target: [ServerPlayer['Dioginix'/9368, l='ServerLevel[world]', x=349.74, y=106.06, z=189.75]]
+[03Jun2025 20:19:56.091] [Server thread/DEBUG] [de.cadentem.the_rake.TheRake/]: The Rake could not pass the spawn checks, target: [ServerPlayer['Dioginix'/9368, l='ServerLevel[world]', x=349.74, y=106.06, z=189.75]]
+[03Jun2025 20:19:56.630] [Server thread/DEBUG] [de.cadentem.the_rake.TheRake/]: The Rake could not pass the spawn checks, target: [ServerPlayer['Dioginix'/9368, l='ServerLevel[world]', x=349.74, y=106.06, z=189.75]]
+[03Jun2025 20:19:57.736] [Server thread/DEBUG] [de.cadentem.the_rake.TheRake/]: The Rake could not pass the spawn checks, target: [ServerPlayer['Dioginix'/9368, l='ServerLevel[world]', x=349.74, y=106.06, z=189.75]]
+[03Jun2025 20:19:57.789] [Server thread/DEBUG] [de.cadentem.the_rake.TheRake/]: The Rake could not pass the spawn checks, target: [ServerPlayer['Dioginix'/9368, l='ServerLevel[world]', x=349.74, y=106.06, z=189.75]]
+[03Jun2025 20:19:58.733] [Server thread/DEBUG] [de.cadentem.the_rake.TheRake/]: The Rake could not pass the spawn checks, target: [ServerPlayer['Dioginix'/9368, l='ServerLevel[world]', x=349.74, y=106.06, z=189.75]]
+[03Jun2025 20:19:59.539] [Server thread/DEBUG] [de.cadentem.the_rake.TheRake/]: The Rake could not pass the spawn checks, target: [ServerPlayer['Dioginix'/9368, l='ServerLevel[world]', x=349.74, y=106.06, z=189.75]]
+[03Jun2025 20:19:59.943] [Server thread/DEBUG] [de.cadentem.the_rake.TheRake/]: The Rake could not pass the spawn checks, target: [ServerPlayer['Dioginix'/9368, l='ServerLevel[world]', x=349.74, y=106.06, z=189.75]]
+[03Jun2025 20:20:00.639] [Server thread/DEBUG] [de.cadentem.the_rake.TheRake/]: The Rake could not pass the spawn checks, target: [ServerPlayer['Dioginix'/9368, l='ServerLevel[world]', x=349.74, y=106.06, z=189.75]]
+[03Jun2025 20:20:01.033] [Server thread/DEBUG] [de.cadentem.the_rake.TheRake/]: The Rake could not pass the spawn checks, target: [ServerPlayer['Dioginix'/9368, l='ServerLevel[world]', x=349.74, y=106.06, z=189.75]]
+[03Jun2025 20:20:02.331] [Server thread/DEBUG] [de.cadentem.the_rake.TheRake/]: The Rake could not pass the spawn checks, target: [ServerPlayer['Dioginix'/9368, l='ServerLevel[world]', x=349.74, y=106.06, z=189.75]]
+[03Jun2025 20:20:03.133] [Server thread/DEBUG] [de.cadentem.the_rake.TheRake/]: The Rake could not pass the spawn checks, target: [ServerPlayer['Dioginix'/9368, l='ServerLevel[world]', x=349.74, y=106.06, z=189.75]]
+[03Jun2025 20:20:04.830] [Server thread/DEBUG] [de.cadentem.the_rake.TheRake/]: The Rake could not pass the spawn checks, target: [ServerPlayer['Dioginix'/9368, l='ServerLevel[world]', x=349.74, y=106.06, z=189.75]]
+[03Jun2025 20:20:06.038] [Server thread/DEBUG] [de.cadentem.the_rake.TheRake/]: The Rake could not pass the spawn checks, target: [ServerPlayer['Dioginix'/9368, l='ServerLevel[world]', x=349.74, y=106.06, z=189.75]]
+[03Jun2025 20:20:06.281] [Server thread/DEBUG] [de.cadentem.the_rake.TheRake/]: The Rake could not pass the spawn checks, target: [ServerPlayer['Dioginix'/9368, l='ServerLevel[world]', x=349.74, y=106.06, z=189.75]]
+[03Jun2025 20:20:06.640] [Server thread/DEBUG] [de.cadentem.the_rake.TheRake/]: The Rake could not pass the spawn checks, target: [ServerPlayer['Dioginix'/9368, l='ServerLevel[world]', x=349.74, y=106.06, z=189.75]]
+[03Jun2025 20:20:06.833] [Server thread/DEBUG] [de.cadentem.the_rake.TheRake/]: The Rake could not pass the spawn checks, target: [ServerPlayer['Dioginix'/9368, l='ServerLevel[world]', x=349.74, y=106.06, z=189.75]]
+[03Jun2025 20:20:07.292] [Server thread/DEBUG] [de.cadentem.the_rake.TheRake/]: The Rake could not pass the spawn checks, target: [ServerPlayer['Dioginix'/9368, l='ServerLevel[world]', x=349.74, y=106.06, z=189.75]]
+[03Jun2025 20:20:08.337] [Server thread/DEBUG] [de.cadentem.the_rake.TheRake/]: The Rake could not pass the spawn checks, target: [ServerPlayer['Dioginix'/9368, l='ServerLevel[world]', x=349.74, y=106.06, z=189.75]]
+[03Jun2025 20:20:08.735] [Server thread/DEBUG] [de.cadentem.the_rake.TheRake/]: The Rake could not pass the spawn checks, target: [ServerPlayer['Dioginix'/9368, l='ServerLevel[world]', x=349.74, y=106.06, z=189.75]]
+[03Jun2025 20:20:09.085] [Server thread/DEBUG] [de.cadentem.the_rake.TheRake/]: The Rake could not pass the spawn checks, target: [ServerPlayer['Dioginix'/9368, l='ServerLevel[world]', x=349.74, y=106.06, z=189.75]]
+[03Jun2025 20:20:09.590] [Server thread/DEBUG] [de.cadentem.the_rake.TheRake/]: The Rake could not pass the spawn checks, target: [ServerPlayer['Dioginix'/9368, l='ServerLevel[world]', x=349.74, y=106.06, z=189.75]]
+[03Jun2025 20:20:10.642] [Server thread/DEBUG] [de.cadentem.the_rake.TheRake/]: The Rake could not pass the spawn checks, target: [ServerPlayer['Dioginix'/9368, l='ServerLevel[world]', x=349.74, y=106.06, z=189.75]]
+[03Jun2025 20:20:11.361] [Server thread/DEBUG] [de.cadentem.the_rake.TheRake/]: The Rake could not pass the spawn checks, target: [ServerPlayer['Dioginix'/9368, l='ServerLevel[world]', x=349.74, y=106.06, z=189.75]]
+[03Jun2025 20:20:12.684] [Server thread/DEBUG] [de.cadentem.the_rake.TheRake/]: The Rake could not pass the spawn checks, target: [ServerPlayer['Dioginix'/9368, l='ServerLevel[world]', x=349.74, y=106.06, z=189.75]]
+[03Jun2025 20:20:13.287] [Server thread/DEBUG] [de.cadentem.the_rake.TheRake/]: The Rake could not pass the spawn checks, target: [ServerPlayer['Dioginix'/9368, l='ServerLevel[world]', x=349.74, y=106.06, z=189.75]]
+[03Jun2025 20:20:13.583] [Server thread/DEBUG] [de.cadentem.the_rake.TheRake/]: The Rake could not pass the spawn checks, target: [ServerPlayer['Dioginix'/9368, l='ServerLevel[world]', x=349.74, y=106.06, z=189.75]]
+[03Jun2025 20:20:13.694] [Server thread/DEBUG] [de.cadentem.the_rake.TheRake/]: The Rake could not pass the spawn checks, target: [ServerPlayer['Dioginix'/9368, l='ServerLevel[world]', x=349.74, y=106.06, z=189.75]]
+[03Jun2025 20:20:14.285] [Server thread/DEBUG] [de.cadentem.the_rake.TheRake/]: The Rake could not pass the spawn checks, target: [ServerPlayer['Dioginix'/9368, l='ServerLevel[world]', x=349.74, y=106.06, z=189.75]]
+[03Jun2025 20:20:14.537] [Server thread/DEBUG] [de.cadentem.the_rake.TheRake/]: The Rake could not pass the spawn checks, target: [ServerPlayer['Dioginix'/9368, l='ServerLevel[world]', x=349.74, y=106.06, z=189.75]]
+[03Jun2025 20:20:14.901] [Server thread/DEBUG] [de.cadentem.the_rake.TheRake/]: The Rake could not pass the spawn checks, target: [ServerPlayer['Dioginix'/9368, l='ServerLevel[world]', x=349.74, y=106.06, z=189.75]]
+[03Jun2025 20:20:15.888] [Server thread/DEBUG] [de.cadentem.the_rake.TheRake/]: The Rake could not pass the spawn checks, target: [ServerPlayer['Dioginix'/9368, l='ServerLevel[world]', x=349.74, y=106.06, z=189.75]]
+[03Jun2025 20:20:17.680] [Server thread/DEBUG] [de.cadentem.the_rake.TheRake/]: The Rake could not pass the spawn checks, target: [ServerPlayer['Dioginix'/9368, l='ServerLevel[world]', x=349.74, y=106.06, z=189.75]]
+[03Jun2025 20:20:19.590] [Server thread/DEBUG] [de.cadentem.the_rake.TheRake/]: The Rake could not pass the spawn checks, target: [ServerPlayer['Dioginix'/9368, l='ServerLevel[world]', x=349.74, y=106.06, z=189.75]]
+[03Jun2025 20:20:21.584] [Server thread/DEBUG] [de.cadentem.the_rake.TheRake/]: The Rake could not pass the spawn checks, target: [ServerPlayer['Dioginix'/9368, l='ServerLevel[world]', x=349.74, y=106.06, z=189.75]]
+[03Jun2025 20:20:22.150] [Server thread/DEBUG] [de.cadentem.the_rake.TheRake/]: The Rake could not pass the spawn checks, target: [ServerPlayer['Dioginix'/9368, l='ServerLevel[world]', x=349.74, y=106.06, z=189.75]]
+[03Jun2025 20:20:22.685] [Server thread/DEBUG] [de.cadentem.the_rake.TheRake/]: The Rake could not pass the spawn checks, target: [ServerPlayer['Dioginix'/9368, l='ServerLevel[world]', x=349.74, y=106.06, z=189.75]]
+[03Jun2025 20:20:23.235] [Server thread/DEBUG] [de.cadentem.the_rake.TheRake/]: The Rake could not pass the spawn checks, target: [ServerPlayer['Dioginix'/9368, l='ServerLevel[world]', x=349.74, y=106.06, z=189.75]]
+[03Jun2025 20:20:23.945] [Server thread/DEBUG] [de.cadentem.the_rake.TheRake/]: The Rake could not pass the spawn checks, target: [ServerPlayer['Dioginix'/9368, l='ServerLevel[world]', x=349.74, y=106.06, z=189.75]]
+[03Jun2025 20:20:24.030] [Server thread/DEBUG] [de.cadentem.the_rake.TheRake/]: The Rake could not pass the spawn checks, target: [ServerPlayer['Dioginix'/9368, l='ServerLevel[world]', x=349.74, y=106.06, z=189.75]]
+[03Jun2025 20:20:25.685] [Server thread/DEBUG] [de.cadentem.the_rake.TheRake/]: The Rake could not pass the spawn checks, target: [ServerPlayer['Dioginix'/9368, l='ServerLevel[world]', x=350.16, y=106.06, z=189.69]]
+[03Jun2025 20:20:26.034] [Server thread/DEBUG] [de.cadentem.the_rake.TheRake/]: The Rake could not pass the spawn checks, target: [ServerPlayer['Dioginix'/9368, l='ServerLevel[world]', x=350.16, y=106.06, z=189.69]]
+[03Jun2025 20:20:27.880] [Server thread/DEBUG] [de.cadentem.the_rake.TheRake/]: The Rake could not pass the spawn checks, target: [ServerPlayer['Dioginix'/9368, l='ServerLevel[world]', x=348.90, y=106.06, z=189.81]]
+[03Jun2025 20:20:28.837] [Server thread/DEBUG] [de.cadentem.the_rake.TheRake/]: The Rake could not pass the spawn checks, target: [ServerPlayer['Dioginix'/9368, l='ServerLevel[world]', x=347.43, y=106.00, z=190.13]]
+[03Jun2025 20:20:29.634] [Server thread/DEBUG] [de.cadentem.the_rake.TheRake/]: The Rake could not pass the spawn checks, target: [ServerPlayer['Dioginix'/9368, l='ServerLevel[world]', x=347.43, y=106.00, z=190.13]]
+[03Jun2025 20:20:32.504] [Server thread/DEBUG] [de.cadentem.the_rake.TheRake/]: The Rake could not pass the spawn checks, target: [ServerPlayer['Dioginix'/9368, l='ServerLevel[world]', x=347.43, y=106.00, z=190.13]]
+[03Jun2025 20:20:35.087] [Server thread/DEBUG] [de.cadentem.the_rake.TheRake/]: The Rake could not pass the spawn checks, target: [ServerPlayer['Dioginix'/9368, l='ServerLevel[world]', x=350.36, y=105.77, z=193.40]]
+[03Jun2025 20:20:35.692] [Server thread/DEBUG] [de.cadentem.the_rake.TheRake/]: The Rake could not pass the spawn checks, target: [ServerPlayer['Dioginix'/9368, l='ServerLevel[world]', x=350.36, y=104.00, z=193.48]]
+[03Jun2025 20:20:37.681] [Server thread/DEBUG] [de.cadentem.the_rake.TheRake/]: The Rake could not pass the spawn checks, target: [ServerPlayer['Dioginix'/9368, l='ServerLevel[world]', x=347.46, y=100.00, z=197.30]]
+[03Jun2025 20:20:49.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dioginix was slain by The Rake
+[03Jun2025 20:23:47.491] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dioginix moved too quickly! 5.884929847980914,0.604424101326714,8.417786451790676
+[03Jun2025 20:23:51.536] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dioginix was kicked for floating too long!
+[03Jun2025 20:23:51.537] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dioginix lost connection: Flying is not enabled on this server
+[03Jun2025 20:23:51.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dioginix left the game
+[03Jun2025 20:23:51.597] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[03Jun2025 20:23:56.756] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Starting new modded impl connection. Found 29 messages to dispatch.
+[03Jun2025 20:23:56.781] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.network.HandshakeMessages$S2CModData' to 'fml:handshake' sequence 0
+[03Jun2025 20:23:56.831] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.network.HandshakeMessages$S2CModList' to 'fml:handshake' sequence 1
+[03Jun2025 20:23:56.881] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:command_argument_type' to 'fml:handshake' sequence 2
+[03Jun2025 20:23:56.931] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:recipe_serializer' to 'fml:handshake' sequence 3
+[03Jun2025 20:23:56.981] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:sound_event' to 'fml:handshake' sequence 4
+[03Jun2025 20:23:57.031] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:particle_type' to 'fml:handshake' sequence 5
+[03Jun2025 20:23:57.081] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:villager_profession' to 'fml:handshake' sequence 6
+[03Jun2025 20:23:57.085] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 1
+[03Jun2025 20:23:57.085] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 1 of type net.minecraftforge.network.HandshakeMessages$C2SModListReply
+[03Jun2025 20:23:57.085] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client connection with modlist [minecraft, jade, craftable_nametags, jei, craftable_saddles, xaerominimap, man, gravestone, securitycraft, toughasnails, mixinextras, butchersdelight, justzoom, world_host, forge, craftable_elytra_remastered, tlskincape, konkrete, geckolib3, cavenoise_overhaul, the_rake, cave_dweller, corpse_stalker]
+[03Jun2025 20:23:57.085] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:loginwrapper' : Version test of 'FML3' from client : ACCEPTED
+[03Jun2025 20:23:57.085] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:tier_sorting' : Version test of '1.0' from client : ACCEPTED
+[03Jun2025 20:23:57.085] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'toughasnails:main_channel' : Version test of '0' from client : ACCEPTED
+[03Jun2025 20:23:57.086] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'jei:channel' : Version test of '1.0.0' from client : ACCEPTED
+[03Jun2025 20:23:57.086] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'cavenoise_overhaul:main' : Version test of '2' from client : ACCEPTED
+[03Jun2025 20:23:57.086] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:unregister' : Version test of 'FML3' from client : ACCEPTED
+[03Jun2025 20:23:57.086] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'xaerominimap:main' : Version test of '1.0' from client : ACCEPTED
+[03Jun2025 20:23:57.086] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:play' : Version test of 'FML3' from client : ACCEPTED
+[03Jun2025 20:23:57.086] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'butchersdelight:butchersdelight' : Version test of '1' from client : ACCEPTED
+[03Jun2025 20:23:57.086] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'securitycraft:securitycraft' : Version test of 'v1.9.6.1' from client : ACCEPTED
+[03Jun2025 20:23:57.086] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'gravestone:default' : Version test of '1.0.0' from client : ACCEPTED
+[03Jun2025 20:23:57.086] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'craftable_nametags:craftable_nametags' : Version test of '1' from client : ACCEPTED
+[03Jun2025 20:23:57.086] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'craftable_elytra_remastered:craftable_elytra_remastered' : Version test of '1' from client : ACCEPTED
+[03Jun2025 20:23:57.086] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'man:man' : Version test of '1' from client : ACCEPTED
+[03Jun2025 20:23:57.086] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:handshake' : Version test of 'FML3' from client : ACCEPTED
+[03Jun2025 20:23:57.086] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'the_rake:main' : Version test of '2' from client : ACCEPTED
+[03Jun2025 20:23:57.086] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'corpse_stalker:main' : Version test of '2' from client : ACCEPTED
+[03Jun2025 20:23:57.086] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'geckolib3:main' : Version test of '0' from client : ACCEPTED
+[03Jun2025 20:23:57.086] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:register' : Version test of 'FML3' from client : ACCEPTED
+[03Jun2025 20:23:57.086] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:split' : Version test of '1.1' from client : ACCEPTED
+[03Jun2025 20:23:57.086] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'cave_dweller:main' : Version test of '2' from client : ACCEPTED
+[03Jun2025 20:23:57.086] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'jade:networking' : Version test of '1' from client : ACCEPTED
+[03Jun2025 20:23:57.086] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Accepting channel list from client
+[03Jun2025 20:23:57.086] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Accepted client connection mod list
+[03Jun2025 20:23:57.126] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 2
+[03Jun2025 20:23:57.126] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 2 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[03Jun2025 20:23:57.126] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[03Jun2025 20:23:57.132] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:item' to 'fml:handshake' sequence 7
+[03Jun2025 20:23:57.181] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 3
+[03Jun2025 20:23:57.181] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 3 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[03Jun2025 20:23:57.181] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[03Jun2025 20:23:57.181] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:potion' to 'fml:handshake' sequence 8
+[03Jun2025 20:23:57.231] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:painting_variant' to 'fml:handshake' sequence 9
+[03Jun2025 20:23:57.281] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry forge:fluid_type' to 'fml:handshake' sequence 10
+[03Jun2025 20:23:57.331] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:block_entity_type' to 'fml:handshake' sequence 11
+[03Jun2025 20:23:57.381] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:block' to 'fml:handshake' sequence 12
+[03Jun2025 20:23:57.431] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry forge:entity_data_serializers' to 'fml:handshake' sequence 13
+[03Jun2025 20:23:57.481] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:mob_effect' to 'fml:handshake' sequence 14
+[03Jun2025 20:23:57.531] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:stat_type' to 'fml:handshake' sequence 15
+[03Jun2025 20:23:57.581] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:menu' to 'fml:handshake' sequence 16
+[03Jun2025 20:23:57.597] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 4
+[03Jun2025 20:23:57.597] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 4 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[03Jun2025 20:23:57.597] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[03Jun2025 20:23:57.597] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 5
+[03Jun2025 20:23:57.597] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 5 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[03Jun2025 20:23:57.597] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[03Jun2025 20:23:57.597] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 6
+[03Jun2025 20:23:57.597] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 6 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[03Jun2025 20:23:57.598] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[03Jun2025 20:23:57.631] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:enchantment' to 'fml:handshake' sequence 17
+[03Jun2025 20:23:57.681] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:fluid' to 'fml:handshake' sequence 18
+[03Jun2025 20:23:57.731] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:entity_type' to 'fml:handshake' sequence 19
+[03Jun2025 20:23:57.781] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config securitycraft-server.toml' to 'fml:handshake' sequence 20
+[03Jun2025 20:23:57.813] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 7
+[03Jun2025 20:23:57.813] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 7 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[03Jun2025 20:23:57.813] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[03Jun2025 20:23:57.831] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config corpse_stalker-server.toml' to 'fml:handshake' sequence 21
+[03Jun2025 20:23:57.832] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 8
+[03Jun2025 20:23:57.832] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 8 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[03Jun2025 20:23:57.832] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[03Jun2025 20:23:57.832] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 9
+[03Jun2025 20:23:57.832] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 9 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[03Jun2025 20:23:57.832] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[03Jun2025 20:23:57.832] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 10
+[03Jun2025 20:23:57.832] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 10 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[03Jun2025 20:23:57.833] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[03Jun2025 20:23:57.833] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 11
+[03Jun2025 20:23:57.833] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 11 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[03Jun2025 20:23:57.833] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[03Jun2025 20:23:57.881] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config gravestone-server.toml' to 'fml:handshake' sequence 22
+[03Jun2025 20:23:57.894] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 12
+[03Jun2025 20:23:57.894] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 12 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[03Jun2025 20:23:57.894] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[03Jun2025 20:23:57.894] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 13
+[03Jun2025 20:23:57.894] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 13 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[03Jun2025 20:23:57.894] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[03Jun2025 20:23:57.894] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 14
+[03Jun2025 20:23:57.894] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 14 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[03Jun2025 20:23:57.894] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[03Jun2025 20:23:57.894] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 15
+[03Jun2025 20:23:57.894] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 15 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[03Jun2025 20:23:57.894] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[03Jun2025 20:23:57.894] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 16
+[03Jun2025 20:23:57.894] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 16 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[03Jun2025 20:23:57.894] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[03Jun2025 20:23:57.931] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config cavenoise_overhaul-server.toml' to 'fml:handshake' sequence 23
+[03Jun2025 20:23:57.941] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 17
+[03Jun2025 20:23:57.941] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 17 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[03Jun2025 20:23:57.941] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[03Jun2025 20:23:57.941] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 18
+[03Jun2025 20:23:57.941] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 18 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[03Jun2025 20:23:57.941] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[03Jun2025 20:23:57.981] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config toughasnails-server.toml' to 'fml:handshake' sequence 24
+[03Jun2025 20:23:58.031] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config cave_dweller-server.toml' to 'fml:handshake' sequence 25
+[03Jun2025 20:23:58.081] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config jei-server.toml' to 'fml:handshake' sequence 26
+[03Jun2025 20:23:58.131] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config the_rake-server.toml' to 'fml:handshake' sequence 27
+[03Jun2025 20:23:58.181] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config forge-server.toml' to 'fml:handshake' sequence 28
+[03Jun2025 20:23:58.494] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 19
+[03Jun2025 20:23:58.494] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 19 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[03Jun2025 20:23:58.494] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[03Jun2025 20:23:58.494] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 20
+[03Jun2025 20:23:58.494] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 20 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[03Jun2025 20:23:58.494] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[03Jun2025 20:23:58.536] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 21
+[03Jun2025 20:23:58.536] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 21 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[03Jun2025 20:23:58.536] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[03Jun2025 20:23:58.536] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 22
+[03Jun2025 20:23:58.536] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 22 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[03Jun2025 20:23:58.536] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[03Jun2025 20:23:58.536] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 23
+[03Jun2025 20:23:58.536] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 23 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[03Jun2025 20:23:58.536] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[03Jun2025 20:23:58.536] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 24
+[03Jun2025 20:23:58.536] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 24 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[03Jun2025 20:23:58.536] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[03Jun2025 20:23:58.536] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 25
+[03Jun2025 20:23:58.536] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 25 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[03Jun2025 20:23:58.536] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[03Jun2025 20:23:58.536] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 26
+[03Jun2025 20:23:58.536] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 26 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[03Jun2025 20:23:58.536] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[03Jun2025 20:23:58.537] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 27
+[03Jun2025 20:23:58.537] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 27 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[03Jun2025 20:23:58.537] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[03Jun2025 20:23:58.537] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 28
+[03Jun2025 20:23:58.537] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 28 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[03Jun2025 20:23:58.537] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[03Jun2025 20:23:58.581] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Handshake complete!
+[03Jun2025 20:23:58.639] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@6d28fe23
+[03Jun2025 20:23:58.644] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Dioginix[/127.19.72.217:51425] logged in with entity id 12420 at (357.8461113273589, 79.17675927506424, 276.8700951278663)
+[03Jun2025 20:23:58.644] [Server thread/DEBUG] [net.minecraftforge.network.filters.NetworkFilters/]: Injected net.minecraftforge.network.filters.ForgeConnectionNetworkFilter@5e63e6ba into net.minecraft.network.Connection@384c8052
+[03Jun2025 20:23:58.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dioginix joined the game
+[03Jun2025 20:23:58.654] [Server thread/INFO] [Jade/]: Syncing config to Dioginix (4d306886-8f13-3df2-9359-5dbba29360f8)

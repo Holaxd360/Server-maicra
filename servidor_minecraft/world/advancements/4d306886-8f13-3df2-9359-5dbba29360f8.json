@@ -370,7 +370,8 @@
       "cooked_porkchop": "2025-06-02 21:46:54 +0000",
       "cooked_mutton": "2025-06-03 02:23:23 +0000",
       "cooked_beef": "2025-06-02 21:17:47 +0000",
-      "apple": "2025-06-02 21:39:26 +0000"
+      "apple": "2025-06-02 21:39:26 +0000",
+      "cooked_chicken": "2025-06-03 20:18:58 +0000"
     },
     "done": false
   },
@@ -617,6 +618,12 @@
   "minecraft:recipes/misc/magenta_dye_from_purple_and_pink": {
     "criteria": {
       "has_purple_dye": "2025-06-02 21:35:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_chestplate": "2025-06-03 20:11:20 +0000"
     },
     "done": true
   },
@@ -938,6 +945,12 @@
   "securitycraft:recipes/securitycraft/reinforced_cyan_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2025-06-02 21:26:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_smelting": {
+    "criteria": {
+      "has_iron_chestplate": "2025-06-03 20:11:20 +0000"
     },
     "done": true
   },
@@ -1520,6 +1533,12 @@
   "securitycraft:recipes/securitycraft/reinforced_blue_stained_glass": {
     "criteria": {
       "has_glass": "2025-06-02 21:26:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_blasting": {
+    "criteria": {
+      "has_iron_chestplate": "2025-06-03 20:11:20 +0000"
     },
     "done": true
   },
