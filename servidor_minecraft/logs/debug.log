@@ -1711,3 +1711,43 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [03Jun2025 19:53:07.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dioginix was shot by Pillager
 [03Jun2025 19:53:25.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dioginix was slain by Corpse Stalker
 [03Jun2025 19:53:47.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dioginix was shot by Pillager
+[03Jun2025 19:54:27.651] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Jun2025 19:54:27.656] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Jun2025 19:55:38.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dioginix was doomed to fall by Spider
+[03Jun2025 19:56:14.056] [Server thread/DEBUG] [de.cadentem.the_rake.TheRake/]: The Rake could not pass the spawn checks, target: [ServerPlayer['Dioginix'/79, l='ServerLevel[world]', x=350.50, y=106.06, z=189.50]]
+[03Jun2025 19:56:14.233] [Server thread/DEBUG] [de.cadentem.the_rake.TheRake/]: The Rake could not pass the spawn checks, target: [ServerPlayer['Dioginix'/79, l='ServerLevel[world]', x=352.43, y=70.00, z=241.70]]
+[03Jun2025 19:56:14.561] [Server thread/DEBUG] [de.cadentem.the_rake.TheRake/]: The Rake could not pass the spawn checks, target: [ServerPlayer['Dioginix'/79, l='ServerLevel[world]', x=352.43, y=70.00, z=241.70]]
+[03Jun2025 19:56:18.044] [Server thread/DEBUG] [de.cadentem.the_rake.TheRake/]: The Rake could not pass the spawn checks, target: [ServerPlayer['Dioginix'/79, l='ServerLevel[world]', x=352.73, y=70.00, z=240.19]]
+[03Jun2025 19:56:19.554] [Server thread/DEBUG] [de.cadentem.the_rake.TheRake/]: The Rake could not pass the spawn checks, target: [ServerPlayer['Dioginix'/79, l='ServerLevel[world]', x=352.73, y=70.00, z=240.19]]
+[03Jun2025 19:56:19.789] [Server thread/DEBUG] [de.cadentem.the_rake.TheRake/]: The Rake could not pass the spawn checks, target: [ServerPlayer['Dioginix'/79, l='ServerLevel[world]', x=352.73, y=70.00, z=240.19]]
+[03Jun2025 19:56:22.165] [Server thread/DEBUG] [de.cadentem.the_rake.TheRake/]: The Rake could not pass the spawn checks, target: [ServerPlayer['Dioginix'/79, l='ServerLevel[world]', x=352.38, y=70.00, z=236.51]]
+[03Jun2025 19:56:23.299] [Server thread/DEBUG] [de.cadentem.the_rake.TheRake/]: The Rake could not pass the spawn checks, target: [ServerPlayer['Dioginix'/79, l='ServerLevel[world]', x=352.63, y=69.00, z=236.30]]
+[03Jun2025 19:56:25.105] [Server thread/DEBUG] [de.cadentem.the_rake.TheRake/]: The Rake could not pass the spawn checks, target: [ServerPlayer['Dioginix'/79, l='ServerLevel[world]', x=352.63, y=69.00, z=236.30]]
+[03Jun2025 19:56:25.940] [Server thread/DEBUG] [de.cadentem.the_rake.TheRake/]: The Rake could not pass the spawn checks, target: [ServerPlayer['Dioginix'/79, l='ServerLevel[world]', x=352.63, y=69.00, z=236.30]]
+[03Jun2025 19:56:27.253] [Server thread/DEBUG] [de.cadentem.the_rake.TheRake/]: The Rake could not pass the spawn checks, target: [ServerPlayer['Dioginix'/79, l='ServerLevel[world]', x=352.48, y=69.00, z=236.64]]
+[03Jun2025 19:56:28.541] [Server thread/DEBUG] [de.cadentem.the_rake.TheRake/]: The Rake could not pass the spawn checks, target: [ServerPlayer['Dioginix'/79, l='ServerLevel[world]', x=352.48, y=69.00, z=236.64]]
+[03Jun2025 19:56:28.876] [Server thread/DEBUG] [de.cadentem.the_rake.TheRake/]: The Rake could not pass the spawn checks, target: [ServerPlayer['Dioginix'/79, l='ServerLevel[world]', x=352.48, y=69.00, z=236.64]]
+[03Jun2025 19:56:30.898] [Server thread/DEBUG] [de.cadentem.the_rake.TheRake/]: The Rake could not pass the spawn checks, target: [ServerPlayer['Dioginix'/79, l='ServerLevel[world]', x=352.82, y=70.75, z=238.31]]
+[03Jun2025 19:56:31.506] [Server thread/DEBUG] [de.cadentem.the_rake.TheRake/]: The Rake could not pass the spawn checks, target: [ServerPlayer['Dioginix'/79, l='ServerLevel[world]', x=353.33, y=69.92, z=241.30]]
+[03Jun2025 19:56:31.712] [Server thread/DEBUG] [de.cadentem.the_rake.TheRake/]: The Rake could not pass the spawn checks, target: [ServerPlayer['Dioginix'/79, l='ServerLevel[world]', x=353.60, y=69.00, z=241.60]]
+[03Jun2025 19:56:32.478] [Server thread/DEBUG] [de.cadentem.the_rake.TheRake/]: The Rake could not pass the spawn checks, target: [ServerPlayer['Dioginix'/79, l='ServerLevel[world]', x=353.82, y=67.00, z=240.43]]
+[03Jun2025 19:56:33.753] [Server thread/DEBUG] [de.cadentem.the_rake.TheRake/]: The Rake could not pass the spawn checks, target: [ServerPlayer['Dioginix'/79, l='ServerLevel[world]', x=355.58, y=69.20, z=241.80]]
+[03Jun2025 19:56:35.254] [Server thread/DEBUG] [de.cadentem.the_rake.TheRake/]: The Rake could not pass the spawn checks, target: [ServerPlayer['Dioginix'/79, l='ServerLevel[world]', x=355.30, y=69.00, z=242.62]]
+[03Jun2025 19:56:36.057] [Server thread/DEBUG] [de.cadentem.the_rake.TheRake/]: The Rake could not pass the spawn checks, target: [ServerPlayer['Dioginix'/79, l='ServerLevel[world]', x=354.30, y=70.75, z=242.34]]
+[03Jun2025 19:56:36.932] [Server thread/DEBUG] [de.cadentem.the_rake.TheRake/]: The Rake could not pass the spawn checks, target: [ServerPlayer['Dioginix'/79, l='ServerLevel[world]', x=352.56, y=72.02, z=242.36]]
+[03Jun2025 19:56:37.332] [Server thread/DEBUG] [de.cadentem.the_rake.TheRake/]: The Rake could not pass the spawn checks, target: [ServerPlayer['Dioginix'/79, l='ServerLevel[world]', x=352.21, y=72.25, z=242.43]]
+[03Jun2025 19:56:37.700] [Server thread/DEBUG] [de.cadentem.the_rake.TheRake/]: The Rake could not pass the spawn checks, target: [ServerPlayer['Dioginix'/79, l='ServerLevel[world]', x=352.26, y=72.00, z=242.30]]
+[03Jun2025 19:56:38.023] [Server thread/DEBUG] [de.cadentem.the_rake.TheRake/]: The Rake could not pass the spawn checks, target: [ServerPlayer['Dioginix'/79, l='ServerLevel[world]', x=352.42, y=71.00, z=242.30]]
+[03Jun2025 19:56:49.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dioginix was slain by The Rake
+[03Jun2025 19:58:48.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dioginix was blown up by Creeper
+[03Jun2025 19:58:59.342] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dioginix moved too quickly! 2.097113348177629,-8.59260459763506,5.264278792164731
+[03Jun2025 19:59:26.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dioginix has made the advancement [Ol' Betsy]
+[03Jun2025 19:59:26.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dioginix has made the advancement [Take Aim]
+[03Jun2025 19:59:27.648] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Jun2025 19:59:27.652] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Jun2025 20:00:25.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dioginix was shot by Skeleton
+[03Jun2025 20:00:29.230] [Server thread/DEBUG] [de.cadentem.corpse_stalker.CorpseStalker/]: Corpse Stalker could not pass the spawn checks, target: [ServerPlayer['Dioginix'/79, l='ServerLevel[world]', x=350.50, y=106.06, z=189.50]]
+[03Jun2025 20:01:29.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dioginix was slain by Corpse Stalker
+[03Jun2025 20:01:39.240] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dioginix moved too quickly! 2.4273152769173407,-9.233632006042484,4.302164413210306
+[03Jun2025 20:03:16.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dioginix: 0.0 / 1200.0 seconds]
+[03Jun2025 20:04:01.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dioginix: 0.0 / 1200.0 seconds]

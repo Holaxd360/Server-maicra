@@ -295,3 +295,14 @@
 [03Jun2025 19:53:07.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dioginix was shot by Pillager
 [03Jun2025 19:53:25.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dioginix was slain by Corpse Stalker
 [03Jun2025 19:53:47.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dioginix was shot by Pillager
+[03Jun2025 19:55:38.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dioginix was doomed to fall by Spider
+[03Jun2025 19:56:49.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dioginix was slain by The Rake
+[03Jun2025 19:58:48.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dioginix was blown up by Creeper
+[03Jun2025 19:58:59.342] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dioginix moved too quickly! 2.097113348177629,-8.59260459763506,5.264278792164731
+[03Jun2025 19:59:26.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dioginix has made the advancement [Ol' Betsy]
+[03Jun2025 19:59:26.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dioginix has made the advancement [Take Aim]
+[03Jun2025 20:00:25.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dioginix was shot by Skeleton
+[03Jun2025 20:01:29.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dioginix was slain by Corpse Stalker
+[03Jun2025 20:01:39.240] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dioginix moved too quickly! 2.4273152769173407,-9.233632006042484,4.302164413210306
+[03Jun2025 20:03:16.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dioginix: 0.0 / 1200.0 seconds]
+[03Jun2025 20:04:01.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dioginix: 0.0 / 1200.0 seconds]
