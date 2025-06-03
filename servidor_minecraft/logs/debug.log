@@ -1684,3 +1684,30 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [03Jun2025 19:43:03.137] [Server thread/DEBUG] [de.cadentem.corpse_stalker.CorpseStalker/]: Corpse Stalker could not pass the spawn checks, target: [ServerPlayer['Dioginix'/79, l='ServerLevel[world]', x=366.12, y=105.12, z=171.44]]
 [03Jun2025 19:43:56.234] [Server thread/DEBUG] [de.cadentem.corpse_stalker.CorpseStalker/]: Corpse Stalker could not pass the spawn checks, target: [ServerPlayer['Dioginix'/79, l='ServerLevel[world]', x=347.72, y=106.00, z=188.92]]
 [03Jun2025 19:43:58.992] [Server thread/DEBUG] [de.cadentem.corpse_stalker.CorpseStalker/]: Corpse Stalker could not pass the spawn checks, target: [ServerPlayer['Dioginix'/79, l='ServerLevel[world]', x=352.30, y=107.00, z=183.33]]
+[03Jun2025 19:44:06.885] [Server thread/DEBUG] [de.cadentem.corpse_stalker.CorpseStalker/]: Corpse Stalker could not pass the spawn checks, target: [ServerPlayer['Dioginix'/79, l='ServerLevel[world]', x=366.30, y=98.77, z=167.30]]
+[03Jun2025 19:44:08.382] [Server thread/DEBUG] [de.cadentem.corpse_stalker.CorpseStalker/]: Corpse Stalker could not pass the spawn checks, target: [ServerPlayer['Dioginix'/79, l='ServerLevel[world]', x=366.40, y=97.00, z=165.93]]
+[03Jun2025 19:44:09.532] [Server thread/DEBUG] [de.cadentem.corpse_stalker.CorpseStalker/]: Corpse Stalker could not pass the spawn checks, target: [ServerPlayer['Dioginix'/79, l='ServerLevel[world]', x=366.40, y=97.00, z=165.93]]
+[03Jun2025 19:44:10.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dioginix has made the advancement [Hot Stuff]
+[03Jun2025 19:44:13.645] [Server thread/DEBUG] [de.cadentem.corpse_stalker.CorpseStalker/]: Corpse Stalker could not pass the spawn checks, target: [ServerPlayer['Dioginix'/79, l='ServerLevel[world]', x=367.96, y=100.00, z=169.40]]
+[03Jun2025 19:44:13.989] [Server thread/DEBUG] [de.cadentem.corpse_stalker.CorpseStalker/]: Corpse Stalker could not pass the spawn checks, target: [ServerPlayer['Dioginix'/79, l='ServerLevel[world]', x=368.70, y=100.00, z=169.59]]
+[03Jun2025 19:44:17.796] [Server thread/DEBUG] [de.cadentem.corpse_stalker.CorpseStalker/]: Corpse Stalker could not pass the spawn checks, target: [ServerPlayer['Dioginix'/79, l='ServerLevel[world]', x=363.43, y=107.00, z=171.66]]
+[03Jun2025 19:44:19.184] [Server thread/DEBUG] [de.cadentem.corpse_stalker.CorpseStalker/]: Corpse Stalker could not pass the spawn checks, target: [ServerPlayer['Dioginix'/79, l='ServerLevel[world]', x=355.70, y=107.00, z=171.70]]
+[03Jun2025 19:44:27.657] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Jun2025 19:44:27.664] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Jun2025 19:44:47.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dioginix was shot by Pillager
+[03Jun2025 19:46:07.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dioginix burned to death
+[03Jun2025 19:46:45.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dioginix was shot by Pillager
+[03Jun2025 19:47:35.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dioginix has made the advancement [Voluntary Exile]
+[03Jun2025 19:47:41.234] [Server thread/DEBUG] [de.cadentem.corpse_stalker.CorpseStalker/]: Corpse Stalker could not pass the spawn checks, target: [ServerPlayer['Dioginix'/79, l='ServerLevel[world]', x=350.50, y=106.06, z=189.50]]
+[03Jun2025 19:47:56.331] [Server thread/DEBUG] [de.cadentem.corpse_stalker.CorpseStalker/]: Corpse Stalker could not pass the spawn checks, target: [ServerPlayer['Dioginix'/79, l='ServerLevel[world]', x=319.99, y=95.25, z=187.64]]
+[03Jun2025 19:48:03.631] [Server thread/DEBUG] [de.cadentem.corpse_stalker.CorpseStalker/]: Corpse Stalker could not pass the spawn checks, target: [ServerPlayer['Dioginix'/79, l='ServerLevel[world]', x=319.99, y=95.00, z=187.44]]
+[03Jun2025 19:48:05.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dioginix hit the ground too hard
+[03Jun2025 19:48:14.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dioginix: Set own game mode to Creative Mode]
+[03Jun2025 19:49:26.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dioginix: Set own game mode to Survival Mode]
+[03Jun2025 19:49:27.651] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Jun2025 19:49:27.658] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Jun2025 19:51:06.924] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dioginix: Config for cavenoise_overhaul of type SERVER found at cavenoise_overhaul-server.toml]
+[03Jun2025 19:52:42.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dioginix was shot by Skeleton
+[03Jun2025 19:53:07.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dioginix was shot by Pillager
+[03Jun2025 19:53:25.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dioginix was slain by Corpse Stalker
+[03Jun2025 19:53:47.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dioginix was shot by Pillager

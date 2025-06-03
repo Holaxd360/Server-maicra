@@ -282,3 +282,16 @@
 [03Jun2025 19:36:24.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dioginix fell from a high place
 [03Jun2025 19:40:54.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dioginix tried to swim in lava
 [03Jun2025 19:41:05.342] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dioginix moved too quickly! 10.10522597428303,0.0,0.06373169041606275
+[03Jun2025 19:44:10.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dioginix has made the advancement [Hot Stuff]
+[03Jun2025 19:44:47.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dioginix was shot by Pillager
+[03Jun2025 19:46:07.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dioginix burned to death
+[03Jun2025 19:46:45.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dioginix was shot by Pillager
+[03Jun2025 19:47:35.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dioginix has made the advancement [Voluntary Exile]
+[03Jun2025 19:48:05.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dioginix hit the ground too hard
+[03Jun2025 19:48:14.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dioginix: Set own game mode to Creative Mode]
+[03Jun2025 19:49:26.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dioginix: Set own game mode to Survival Mode]
+[03Jun2025 19:51:06.924] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dioginix: Config for cavenoise_overhaul of type SERVER found at cavenoise_overhaul-server.toml]
+[03Jun2025 19:52:42.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dioginix was shot by Skeleton
+[03Jun2025 19:53:07.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dioginix was shot by Pillager
+[03Jun2025 19:53:25.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dioginix was slain by Corpse Stalker
+[03Jun2025 19:53:47.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dioginix was shot by Pillager
