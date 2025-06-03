@@ -327,3 +327,32 @@
 [03Jun2025 20:30:20.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dioginix was slain by Cavenoise Overhaul
 [03Jun2025 20:31:14.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dioginix fell from a high place
 [03Jun2025 20:31:22.415] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dioginix moved too quickly! 3.294056689041554,-5.140900001525878,7.983621461371541
+[03Jun2025 20:35:10.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dioginix was slain by Zombie
+[03Jun2025 20:35:43.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dioginix fell from a high place
+[03Jun2025 20:39:40.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dioginix was impaled on a stalagmite
+[03Jun2025 20:44:13.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dioginix was slain by Cavenoise Overhaul
+[03Jun2025 20:44:46.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dioginix fell from a high place
+[03Jun2025 20:45:28.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dioginix fell from a high place
+[03Jun2025 20:48:21.977] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dioginix moved too quickly! 0.49331931038318544,-1.7663679939575196,9.861872441846458
+[03Jun2025 20:48:30.885] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dioginix lost connection: Timed out
+[03Jun2025 20:48:30.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dioginix left the game
+[03Jun2025 20:48:40.737] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@61921e1b
+[03Jun2025 20:48:40.742] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Dioginix[/127.19.72.217:46771] logged in with entity id 20239 at (434.2063522511324, 19.0, 409.4871868044495)
+[03Jun2025 20:48:40.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dioginix joined the game
+[03Jun2025 20:48:40.753] [Server thread/INFO] [Jade/]: Syncing config to Dioginix (4d306886-8f13-3df2-9359-5dbba29360f8)
+[03Jun2025 20:51:09.984] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dioginix was slain by Cave Dweller
+[03Jun2025 20:51:32.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dioginix was slain by Cavenoise Overhaul
+[03Jun2025 20:53:19.987] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dioginix lost connection: Disconnected
+[03Jun2025 20:53:19.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dioginix left the game
+[03Jun2025 20:53:26.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[03Jun2025 20:53:26.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[03Jun2025 20:53:26.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[03Jun2025 20:53:27.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[03Jun2025 20:53:27.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/man:halucination
+[03Jun2025 20:53:27.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[03Jun2025 20:53:27.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[03Jun2025 20:53:27.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[03Jun2025 20:53:27.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (halucination): All chunks are saved
+[03Jun2025 20:53:27.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[03Jun2025 20:53:27.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[03Jun2025 20:53:27.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
