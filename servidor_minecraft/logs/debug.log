@@ -1819,3 +1819,28 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [04Jun2025 20:29:21.158] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [04Jun2025 20:30:24.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dioginix was shot by Skeleton
 [04Jun2025 20:33:49.484] [Server thread/DEBUG] [de.cadentem.corpse_stalker.CorpseStalker/]: Corpse Stalker could not pass the spawn checks, target: [ServerPlayer['Dioginix'/75, l='ServerLevel[world]', x=350.50, y=106.06, z=189.50]]
+[04Jun2025 20:34:21.149] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Jun2025 20:34:21.154] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Jun2025 20:35:27.584] [Server thread/DEBUG] [de.cadentem.the_rake.TheRake/]: The Rake could not pass the spawn checks, target: [ServerPlayer['Dioginix'/1416, l='ServerLevel[world]', x=350.50, y=106.06, z=189.50]]
+[04Jun2025 20:35:29.524] [Server thread/DEBUG] [de.cadentem.the_rake.TheRake/]: The Rake could not pass the spawn checks, target: [ServerPlayer['Dioginix'/1416, l='ServerLevel[world]', x=422.53, y=-8.00, z=311.75]]
+[04Jun2025 20:35:39.182] [Server thread/DEBUG] [de.cadentem.cavenoise_overhaul.CavenoiseOverhaul/]: Cavenoise Overhaul could not pass the spawn checks, target: [ServerPlayer['Dioginix'/1416, l='ServerLevel[world]', x=350.50, y=106.06, z=189.50]]
+[04Jun2025 20:35:43.826] [Server thread/DEBUG] [de.cadentem.cavenoise_overhaul.CavenoiseOverhaul/]: Cavenoise Overhaul could not pass the spawn checks, target: [ServerPlayer['Dioginix'/1416, l='ServerLevel[world]', x=419.35, y=-9.00, z=316.45]]
+[04Jun2025 20:36:07.808] [Server thread/DEBUG] [de.cadentem.cavenoise_overhaul.CavenoiseOverhaul/]: Cavenoise Overhaul could not pass the spawn checks, target: [ServerPlayer['Dioginix'/1416, l='ServerLevel[world]', x=419.35, y=-9.00, z=316.45]]
+[04Jun2025 20:36:24.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dioginix was slain by Cavenoise Overhaul
+[04Jun2025 20:39:15.141] [Server thread/DEBUG] [de.cadentem.cave_dweller.CaveDweller/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['Dioginix'/75, l='ServerLevel[world]', x=350.50, y=106.06, z=189.50]]
+[04Jun2025 20:39:21.149] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Jun2025 20:39:21.154] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Jun2025 20:41:01.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dioginix was slain by Cave Dweller
+[04Jun2025 20:43:32.294] [Server thread/DEBUG] [de.cadentem.the_rake.TheRake/]: The Rake could not pass the spawn checks, target: [ServerPlayer['Dioginix'/1416, l='ServerLevel[world]', x=350.50, y=106.06, z=189.50]]
+[04Jun2025 20:44:21.148] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Jun2025 20:44:21.152] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Jun2025 20:45:36.842] [Server thread/DEBUG] [de.cadentem.cavenoise_overhaul.CavenoiseOverhaul/]: Cavenoise Overhaul could not pass the spawn checks, target: [ServerPlayer['Dioginix'/1416, l='ServerLevel[world]', x=350.50, y=106.06, z=189.50]]
+[04Jun2025 20:45:37.142] [Server thread/DEBUG] [de.cadentem.cavenoise_overhaul.CavenoiseOverhaul/]: Cavenoise Overhaul could not pass the spawn checks, target: [ServerPlayer['Dioginix'/1416, l='ServerLevel[world]', x=426.33, y=-9.00, z=338.91]]
+[04Jun2025 20:46:35.168] [Server thread/DEBUG] [de.cadentem.cave_dweller.CaveDweller/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['Dioginix'/1416, l='ServerLevel[world]', x=350.50, y=106.06, z=189.50]]
+[04Jun2025 20:46:51.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dioginix was slain by Cave Dweller
+[04Jun2025 20:48:38.581] [Server thread/DEBUG] [de.cadentem.the_rake.TheRake/]: The Rake could not pass the spawn checks, target: [ServerPlayer['Dioginix'/1416, l='ServerLevel[world]', x=350.50, y=106.06, z=189.50]]
+[04Jun2025 20:48:38.641] [Server thread/DEBUG] [de.cadentem.the_rake.TheRake/]: The Rake could not pass the spawn checks, target: [ServerPlayer['Dioginix'/1416, l='ServerLevel[world]', x=421.62, y=-9.00, z=339.76]]
+[04Jun2025 20:49:21.148] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Jun2025 20:49:21.153] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Jun2025 20:49:53.926] [Server thread/DEBUG] [de.cadentem.cavenoise_overhaul.CavenoiseOverhaul/]: Cavenoise Overhaul could not pass the spawn checks, target: [ServerPlayer['Dioginix'/1416, l='ServerLevel[world]', x=350.50, y=106.06, z=189.50]]
+[04Jun2025 20:50:12.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dioginix was slain by Cavenoise Overhaul
