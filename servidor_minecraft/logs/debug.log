@@ -1795,3 +1795,19 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [04Jun2025 20:13:07.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dioginix joined the game
 [04Jun2025 20:13:07.896] [Server thread/INFO] [Jade/]: Syncing config to Dioginix (4d306886-8f13-3df2-9359-5dbba29360f8)
 [04Jun2025 20:13:33.477] [Server thread/DEBUG] [de.cadentem.cavenoise_overhaul.CavenoiseOverhaul/]: Cavenoise Overhaul could not pass the spawn checks, target: [ServerPlayer['Dioginix'/75, l='ServerLevel[world]', x=350.50, y=106.06, z=189.50]]
+[04Jun2025 20:14:07.492] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dioginix> Dioginix
+[04Jun2025 20:14:21.158] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Jun2025 20:14:21.163] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Jun2025 20:15:12.435] [Server thread/DEBUG] [de.cadentem.the_rake.TheRake/]: The Rake could not pass the spawn checks, target: [ServerPlayer['Dioginix'/75, l='ServerLevel[world]', x=350.50, y=106.06, z=189.50]]
+[04Jun2025 20:15:12.637] [Server thread/DEBUG] [de.cadentem.the_rake.TheRake/]: The Rake could not pass the spawn checks, target: [ServerPlayer['Dioginix'/1416, l='ServerLevel[world]', x=349.95, y=106.00, z=192.46]]
+[04Jun2025 20:15:12.794] [Server thread/DEBUG] [de.cadentem.the_rake.TheRake/]: The Rake could not pass the spawn checks, target: [ServerPlayer['Dioginix'/1416, l='ServerLevel[world]', x=350.15, y=106.00, z=191.95]]
+[04Jun2025 20:15:13.583] [Server thread/DEBUG] [de.cadentem.the_rake.TheRake/]: The Rake could not pass the spawn checks, target: [ServerPlayer['Dioginix'/1416, l='ServerLevel[world]', x=349.90, y=106.00, z=191.91]]
+[04Jun2025 20:15:14.536] [Server thread/DEBUG] [de.cadentem.the_rake.TheRake/]: The Rake could not pass the spawn checks, target: [ServerPlayer['Dioginix'/1416, l='ServerLevel[world]', x=352.22, y=104.00, z=193.82]]
+[04Jun2025 20:15:16.127] [Server thread/DEBUG] [de.cadentem.the_rake.TheRake/]: The Rake could not pass the spawn checks, target: [ServerPlayer['Dioginix'/1416, l='ServerLevel[world]', x=355.51, y=102.00, z=194.58]]
+[04Jun2025 20:15:16.277] [Server thread/DEBUG] [de.cadentem.the_rake.TheRake/]: The Rake could not pass the spawn checks, target: [ServerPlayer['Dioginix'/1416, l='ServerLevel[world]', x=355.62, y=102.00, z=194.64]]
+[04Jun2025 20:15:16.590] [Server thread/DEBUG] [de.cadentem.the_rake.TheRake/]: The Rake could not pass the spawn checks, target: [ServerPlayer['Dioginix'/1416, l='ServerLevel[world]', x=356.70, y=102.75, z=195.35]]
+[04Jun2025 20:15:20.547] [Server thread/DEBUG] [de.cadentem.the_rake.TheRake/]: The Rake could not pass the spawn checks, target: [ServerPlayer['Dioginix'/1416, l='ServerLevel[world]', x=360.20, y=88.50, z=208.90]]
+[04Jun2025 20:19:21.152] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Jun2025 20:19:21.157] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Jun2025 20:20:03.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dioginix hit the ground too hard
+[04Jun2025 20:23:59.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dioginix has made the advancement [Crops of the Wild]
