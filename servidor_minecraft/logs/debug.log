@@ -1844,3 +1844,17 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [04Jun2025 20:49:21.153] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [04Jun2025 20:49:53.926] [Server thread/DEBUG] [de.cadentem.cavenoise_overhaul.CavenoiseOverhaul/]: Cavenoise Overhaul could not pass the spawn checks, target: [ServerPlayer['Dioginix'/1416, l='ServerLevel[world]', x=350.50, y=106.06, z=189.50]]
 [04Jun2025 20:50:12.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dioginix was slain by Cavenoise Overhaul
+[04Jun2025 20:54:21.147] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Jun2025 20:54:21.152] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Jun2025 20:54:45.635] [Server thread/DEBUG] [de.cadentem.corpse_stalker.CorpseStalker/]: Corpse Stalker could not pass the spawn checks, target: [ServerPlayer['Dioginix'/1416, l='ServerLevel[world]', x=350.50, y=106.06, z=189.50]]
+[04Jun2025 20:57:01.893] [Server thread/DEBUG] [de.cadentem.cave_dweller.CaveDweller/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['Dioginix'/1416, l='ServerLevel[world]', x=350.50, y=106.06, z=189.50]]
+[04Jun2025 20:58:25.642] [Server thread/DEBUG] [de.cadentem.cavenoise_overhaul.CavenoiseOverhaul/]: Cavenoise Overhaul could not pass the spawn checks, target: [ServerPlayer['Dioginix'/1416, l='ServerLevel[world]', x=350.50, y=106.06, z=189.50]]
+[04Jun2025 20:58:26.002] [Server thread/DEBUG] [de.cadentem.cavenoise_overhaul.CavenoiseOverhaul/]: Cavenoise Overhaul could not pass the spawn checks, target: [ServerPlayer['Dioginix'/1416, l='ServerLevel[world]', x=387.30, y=3.50, z=304.70]]
+[04Jun2025 20:58:26.173] [Server thread/DEBUG] [de.cadentem.cavenoise_overhaul.CavenoiseOverhaul/]: Cavenoise Overhaul could not pass the spawn checks, target: [ServerPlayer['Dioginix'/1416, l='ServerLevel[world]', x=387.30, y=2.16, z=304.70]]
+[04Jun2025 20:59:21.150] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Jun2025 20:59:21.154] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Jun2025 20:59:55.642] [Server thread/DEBUG] [de.cadentem.corpse_stalker.CorpseStalker/]: Corpse Stalker could not pass the spawn checks, target: [ServerPlayer['Dioginix'/1416, l='ServerLevel[world]', x=378.70, y=16.00, z=304.30]]
+[04Jun2025 21:00:17.021] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dioginix moved too quickly! -0.7951842895553227,0.0,10.038590220913647
+[04Jun2025 21:01:24.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dioginix was slain by Corpse Stalker
+[04Jun2025 21:04:21.146] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Jun2025 21:04:21.151] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
