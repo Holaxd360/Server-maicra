@@ -107,3 +107,24 @@
 [04Jun2025 20:50:12.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dioginix was slain by Cavenoise Overhaul
 [04Jun2025 21:00:17.021] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dioginix moved too quickly! -0.7951842895553227,0.0,10.038590220913647
 [04Jun2025 21:01:24.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dioginix was slain by Corpse Stalker
+[04Jun2025 21:46:28.184] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dioginix lost connection: Disconnected
+[04Jun2025 21:46:28.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dioginix left the game
+[04Jun2025 21:50:16.740] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@79acec2
+[04Jun2025 21:50:16.746] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Dioginix[/127.53.153.16:60865] logged in with entity id 31877 at (360.1690706880871, 88.0, 205.38164403585702)
+[04Jun2025 21:50:16.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dioginix joined the game
+[04Jun2025 21:50:16.759] [Server thread/INFO] [Jade/]: Syncing config to Dioginix (4d306886-8f13-3df2-9359-5dbba29360f8)
+[04Jun2025 21:50:28.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dioginix was shot by Skeleton
+[04Jun2025 21:52:40.333] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dioginix lost connection: Disconnected
+[04Jun2025 21:52:40.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dioginix left the game
+[04Jun2025 21:53:19.284] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@40b8fbd2
+[04Jun2025 21:53:19.289] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Dioginix[/127.53.153.16:43979] logged in with entity id 32668 at (366.15346827396087, 63.0, 301.4162585943049)
+[04Jun2025 21:53:19.298] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dioginix joined the game
+[04Jun2025 21:53:19.301] [Server thread/INFO] [Jade/]: Syncing config to Dioginix (4d306886-8f13-3df2-9359-5dbba29360f8)
+[04Jun2025 21:53:29.345] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dioginix moved too quickly! 1.2925221999964833,-10.202907869620468,-0.1567554810747538
+[04Jun2025 21:53:30.984] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dioginix lost connection: Disconnected
+[04Jun2025 21:53:30.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dioginix left the game
+[04Jun2025 21:54:31.633] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@4125413a
+[04Jun2025 21:54:31.638] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Dioginix[/127.53.153.16:58491] logged in with entity id 32918 at (369.0625703698346, 54.415645860787464, 316.2728978764772)
+[04Jun2025 21:54:31.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dioginix joined the game
+[04Jun2025 21:54:31.649] [Server thread/INFO] [Jade/]: Syncing config to Dioginix (4d306886-8f13-3df2-9359-5dbba29360f8)
+[04Jun2025 21:54:35.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dioginix fell from a high place
