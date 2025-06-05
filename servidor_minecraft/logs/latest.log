@@ -152,3 +152,17 @@
 [05Jun2025 21:30:12.415] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Dioginix[/127.53.153.16:33867] logged in with entity id 15395 at (347.6639110796699, 100.76636799395752, 198.82211841866055)
 [05Jun2025 21:30:12.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dioginix joined the game
 [05Jun2025 21:30:12.425] [Server thread/INFO] [Jade/]: Syncing config to Dioginix (4d306886-8f13-3df2-9359-5dbba29360f8)
+[05Jun2025 21:30:58.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dioginix fell from a high place
+[05Jun2025 21:33:12.662] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dioginix lost connection: Timed out
+[05Jun2025 21:33:12.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dioginix left the game
+[05Jun2025 21:33:51.108] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@530ddd6a[id=<null>,name=Dioginix,properties={},legacy=false] (/127.53.153.16:56375): Took too long to log in
+[05Jun2025 21:33:51.109] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@530ddd6a[id=<null>,name=Dioginix,properties={},legacy=false] (/127.53.153.16:56375) lost connection: Took too long to log in
+[05Jun2025 21:33:51.158] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[05Jun2025 21:34:38.408] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@30ae53a9[id=<null>,name=Dioginix,properties={},legacy=false] (/127.53.153.16:59003): Took too long to log in
+[05Jun2025 21:34:38.408] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@30ae53a9[id=<null>,name=Dioginix,properties={},legacy=false] (/127.53.153.16:59003) lost connection: Took too long to log in
+[05Jun2025 21:34:38.458] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[05Jun2025 21:35:04.213] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@40bcf47e
+[05Jun2025 21:35:04.217] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Dioginix[/127.53.153.16:45891] logged in with entity id 16415 at (412.30000001192093, -15.0, 340.1928043673328)
+[05Jun2025 21:35:04.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dioginix joined the game
+[05Jun2025 21:35:04.230] [Server thread/INFO] [Jade/]: Syncing config to Dioginix (4d306886-8f13-3df2-9359-5dbba29360f8)
+[05Jun2025 21:38:34.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dioginix was slain by Corpse Stalker
