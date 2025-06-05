@@ -1776,3 +1776,25 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [05Jun2025 20:05:31.628] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [05Jun2025 20:05:31.633] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [05Jun2025 20:09:42.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dioginix was slain by Zombie
+[05Jun2025 20:10:31.629] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Jun2025 20:10:31.634] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Jun2025 20:11:33.429] [Server thread/DEBUG] [de.cadentem.the_rake.TheRake/]: The Rake could not pass the spawn checks, target: [ServerPlayer['Dioginix'/81, l='ServerLevel[world]', x=350.50, y=106.06, z=189.50]]
+[05Jun2025 20:12:34.823] [Server thread/DEBUG] [de.cadentem.corpse_stalker.CorpseStalker/]: Corpse Stalker could not pass the spawn checks, target: [ServerPlayer['Dioginix'/81, l='ServerLevel[world]', x=350.50, y=106.06, z=189.50]]
+[05Jun2025 20:12:48.565] [Server thread/DEBUG] [de.cadentem.corpse_stalker.CorpseStalker/]: Corpse Stalker could not pass the spawn checks, target: [ServerPlayer['Dioginix'/1886, l='ServerLevel[world]', x=371.52, y=1.89, z=315.59]]
+[05Jun2025 20:13:26.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dioginix was slain by Corpse Stalker
+[05Jun2025 20:13:59.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dioginix fell from a high place
+[05Jun2025 20:14:48.766] [Server thread/DEBUG] [de.cadentem.cave_dweller.CaveDweller/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['Dioginix'/81, l='ServerLevel[world]', x=350.50, y=106.06, z=189.50]]
+[05Jun2025 20:15:04.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dioginix was slain by Cave Dweller
+[05Jun2025 20:15:31.627] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Jun2025 20:15:31.632] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Jun2025 20:18:38.288] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dioginix moved too quickly! -0.030654355006049627,2.4524514780759716,-9.936914724434587
+[05Jun2025 20:20:31.628] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Jun2025 20:20:31.633] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Jun2025 20:21:12.069] [Server thread/DEBUG] [de.cadentem.the_rake.TheRake/]: The Rake could not pass the spawn checks, target: [ServerPlayer['Dioginix'/1886, l='ServerLevel[world]', x=350.50, y=106.06, z=189.50]]
+[05Jun2025 20:21:13.708] [Server thread/DEBUG] [de.cadentem.the_rake.TheRake/]: The Rake could not pass the spawn checks, target: [ServerPlayer['Dioginix'/1886, l='ServerLevel[world]', x=351.80, y=94.00, z=202.36]]
+[05Jun2025 20:21:16.658] [Server thread/DEBUG] [de.cadentem.the_rake.TheRake/]: The Rake could not pass the spawn checks, target: [ServerPlayer['Dioginix'/1886, l='ServerLevel[world]', x=350.37, y=97.25, z=202.46]]
+[05Jun2025 20:23:46.533] [Server thread/DEBUG] [de.cadentem.corpse_stalker.CorpseStalker/]: Corpse Stalker could not pass the spawn checks, target: [ServerPlayer['Dioginix'/1886, l='ServerLevel[world]', x=350.50, y=106.06, z=189.50]]
+[05Jun2025 20:23:58.474] [Server thread/DEBUG] [de.cadentem.corpse_stalker.CorpseStalker/]: Corpse Stalker could not pass the spawn checks, target: [ServerPlayer['Dioginix'/1886, l='ServerLevel[world]', x=349.38, y=106.06, z=191.18]]
+[05Jun2025 20:24:09.934] [Server thread/DEBUG] [de.cadentem.corpse_stalker.CorpseStalker/]: Corpse Stalker could not pass the spawn checks, target: [ServerPlayer['Dioginix'/1886, l='ServerLevel[world]', x=351.50, y=106.69, z=188.50]]
+[05Jun2025 20:25:31.627] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Jun2025 20:25:31.632] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
