@@ -3459,3 +3459,7 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [05Jun2025 21:38:34.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dioginix was slain by Corpse Stalker
 [05Jun2025 21:40:31.622] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [05Jun2025 21:40:31.626] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Jun2025 21:45:31.624] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Jun2025 21:45:31.629] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Jun2025 21:50:31.627] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Jun2025 21:50:31.631] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
