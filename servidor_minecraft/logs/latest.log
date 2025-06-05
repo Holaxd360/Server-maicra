@@ -123,3 +123,13 @@
 [05Jun2025 20:39:22.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dioginix fell from a high place
 [05Jun2025 20:42:40.115] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dioginix lost connection: Disconnected
 [05Jun2025 20:42:40.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dioginix left the game
+[05Jun2025 21:02:12.865] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@6ae56f94
+[05Jun2025 21:02:12.872] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Dioginix[/127.53.153.16:59451] logged in with entity id 11475 at (309.0773457743377, 70.0, 241.13150207378203)
+[05Jun2025 21:02:12.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dioginix joined the game
+[05Jun2025 21:02:12.903] [Server thread/INFO] [Jade/]: Syncing config to Dioginix (4d306886-8f13-3df2-9359-5dbba29360f8)
+[05Jun2025 21:02:29.963] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dioginix lost connection: Disconnected
+[05Jun2025 21:02:29.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dioginix left the game
+[05Jun2025 21:07:08.912] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@7bd3fead
+[05Jun2025 21:07:08.916] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Dioginix[/127.53.153.16:40071] logged in with entity id 11699 at (331.4667308251984, 70.0, 246.34255270977405)
+[05Jun2025 21:07:08.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dioginix joined the game
+[05Jun2025 21:07:08.930] [Server thread/INFO] [Jade/]: Syncing config to Dioginix (4d306886-8f13-3df2-9359-5dbba29360f8)
