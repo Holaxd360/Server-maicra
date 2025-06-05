@@ -133,3 +133,22 @@
 [05Jun2025 21:07:08.916] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Dioginix[/127.53.153.16:40071] logged in with entity id 11699 at (331.4667308251984, 70.0, 246.34255270977405)
 [05Jun2025 21:07:08.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dioginix joined the game
 [05Jun2025 21:07:08.930] [Server thread/INFO] [Jade/]: Syncing config to Dioginix (4d306886-8f13-3df2-9359-5dbba29360f8)
+[05Jun2025 21:24:25.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dioginix was slain by Spider
+[05Jun2025 21:24:41.497] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dioginix moved too quickly! 0.5622095935023594,-6.230527368912959,7.826539830440822
+[05Jun2025 21:24:55.512] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dioginix lost connection: Timed out
+[05Jun2025 21:24:55.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dioginix left the game
+[05Jun2025 21:25:04.113] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@1af0ba64
+[05Jun2025 21:25:04.117] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Dioginix[/127.53.153.16:42379] logged in with entity id 14536 at (348.778944413596, 97.76636799395752, 202.5271482837348)
+[05Jun2025 21:25:04.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dioginix joined the game
+[05Jun2025 21:25:04.127] [Server thread/INFO] [Jade/]: Syncing config to Dioginix (4d306886-8f13-3df2-9359-5dbba29360f8)
+[05Jun2025 21:26:36.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dioginix was slain by Cavenoise Overhaul
+[05Jun2025 21:26:48.001] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dioginix moved too quickly! -1.2947246555759762,-5.526659374955443,8.382033524430256
+[05Jun2025 21:27:04.312] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dioginix lost connection: Timed out
+[05Jun2025 21:27:04.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dioginix left the game
+[05Jun2025 21:27:39.958] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@5a58fae6[id=<null>,name=Dioginix,properties={},legacy=false] (/127.53.153.16:47327) lost connection: Disconnected
+[05Jun2025 21:29:55.058] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@6fd2b788[id=<null>,name=Dioginix,properties={},legacy=false] (/127.53.153.16:43263) lost connection: Disconnected
+[05Jun2025 21:30:00.708] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@46ff8879[id=<null>,name=Dioginix,properties={},legacy=false] (/127.53.153.16:55335) lost connection: Disconnected
+[05Jun2025 21:30:12.412] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@4ed92c86
+[05Jun2025 21:30:12.415] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Dioginix[/127.53.153.16:33867] logged in with entity id 15395 at (347.6639110796699, 100.76636799395752, 198.82211841866055)
+[05Jun2025 21:30:12.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dioginix joined the game
+[05Jun2025 21:30:12.425] [Server thread/INFO] [Jade/]: Syncing config to Dioginix (4d306886-8f13-3df2-9359-5dbba29360f8)
