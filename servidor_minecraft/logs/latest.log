@@ -100,3 +100,17 @@
 [08Jun2025 04:38:52.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dioginix: Set own game mode to Survival Mode]
 [08Jun2025 04:39:08.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dioginix: Set own game mode to Spectator Mode]
 [08Jun2025 04:41:00.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dioginix: Set own game mode to Survival Mode]
+[08Jun2025 04:44:27.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xXmishiiiiiiXx has made the advancement [Not Today, Thank You]
+[08Jun2025 04:45:01.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dioginix: Set own game mode to Spectator Mode]
+[08Jun2025 04:45:24.220] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dioginix: Set own game mode to Survival Mode]
+[08Jun2025 04:46:26.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dioginix hit the ground too hard
+[08Jun2025 04:48:01.150] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dioginix moved too quickly! -8.985966809194167,-4.203264399331289,1.6595251397916684
+[08Jun2025 04:48:34.537] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dioginix lost connection: Timed out
+[08Jun2025 04:48:34.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dioginix left the game
+[08Jun2025 04:48:34.585] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[08Jun2025 04:48:54.553] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@4a6997ef
+[08Jun2025 04:48:54.567] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Dioginix[/127.172.187.250:55013] logged in with entity id 3748 at (349.4638118502335, 93.7531999805212, 200.30000001192093)
+[08Jun2025 04:48:54.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dioginix joined the game
+[08Jun2025 04:48:54.665] [Server thread/INFO] [Jade/]: Syncing config to Dioginix (4d306886-8f13-3df2-9359-5dbba29360f8)
+[08Jun2025 04:50:32.185] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dioginix lost connection: Disconnected
+[08Jun2025 04:50:32.186] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dioginix left the game
