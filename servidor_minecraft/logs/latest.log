@@ -82,3 +82,21 @@
 [08Jun2025 04:26:22.151] [Netty Epoll Server IO #4/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [carryon:carryonpackets,citadel:main_channel] rejected their client side version number
 [08Jun2025 04:26:22.153] [Netty Epoll Server IO #4/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
 [08Jun2025 04:26:22.182] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@6c9bdde6[id=<null>,name=xXmishiiiiiiXx,properties={},legacy=false] (/127.129.142.236:34027) lost connection: Connection closed - mismatched mod channel list
+[08Jun2025 04:31:25.880] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@66b7aef9[id=<null>,name=xXmishiiiiiiXx,properties={},legacy=false] (/127.129.142.236:49441) lost connection: Disconnected
+[08Jun2025 04:31:32.835] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class tschipp.carryon.common.carry.CarryOnDataManager
+[08Jun2025 04:31:32.919] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@2702bd9f
+[08Jun2025 04:31:32.941] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Dioginix[/127.172.187.250:38975] logged in with entity id 81 at (347.62715685364054, 106.0, 188.1720109369996)
+[08Jun2025 04:31:33.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dioginix joined the game
+[08Jun2025 04:31:33.055] [Server thread/INFO] [Jade/]: Syncing config to Dioginix (4d306886-8f13-3df2-9359-5dbba29360f8)
+[08Jun2025 04:32:32.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dioginix was slain by Spider
+[08Jun2025 04:34:16.691] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@13f8a33c
+[08Jun2025 04:34:16.699] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: xXmishiiiiiiXx[/127.129.142.236:56857] logged in with entity id 937 at (346.30000001192093, 106.0, 187.30000001192093)
+[08Jun2025 04:34:16.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xXmishiiiiiiXx joined the game
+[08Jun2025 04:34:16.768] [Server thread/INFO] [Jade/]: Syncing config to xXmishiiiiiiXx (dac5a630-967b-3584-a0b6-789b0cf9b3fe)
+[08Jun2025 04:34:27.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xXmishiiiiiiXx tried to swim in lava
+[08Jun2025 04:35:39.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dioginix was slain by Spider
+[08Jun2025 04:37:32.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xXmishiiiiiiXx has made the advancement [Monster Hunter]
+[08Jun2025 04:38:36.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dioginix: Set own game mode to Spectator Mode]
+[08Jun2025 04:38:52.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dioginix: Set own game mode to Survival Mode]
+[08Jun2025 04:39:08.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dioginix: Set own game mode to Spectator Mode]
+[08Jun2025 04:41:00.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dioginix: Set own game mode to Survival Mode]
